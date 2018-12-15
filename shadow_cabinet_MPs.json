@@ -1,0 +1,610 @@
+[
+  {
+    "DisplayAs": "Ms Diane Abbott",
+    "ListAs": "Abbott, Ms Diane",
+    "FullTitle": "Rt Hon Diane Abbott MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1953-09-27T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Hackney North and Stoke Newington",
+    "HouseStartDate": "1987-06-11T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Jonathan Ashworth",
+    "ListAs": "Ashworth, Jonathan",
+    "FullTitle": "Jonathan Ashworth MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1978-10-14T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour (Co-op)",
+    "House": "Commons",
+    "MemberFrom": "Leicester South",
+    "HouseStartDate": "2011-05-05T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Mr Nicholas Brown",
+    "ListAs": "Brown, Mr Nicholas",
+    "FullTitle": "Rt Hon Nicholas Brown MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1950-06-13T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Newcastle upon Tyne East",
+    "HouseStartDate": "1983-06-09T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Richard Burgon",
+    "ListAs": "Burgon, Richard",
+    "FullTitle": "Richard Burgon MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1980-09-19T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Leeds East",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Dawn Butler",
+    "ListAs": "Butler, Dawn",
+    "FullTitle": "Dawn Butler MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1969-11-03T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Brent Central",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Dan Carden",
+    "ListAs": "Carden, Dan",
+    "FullTitle": "Dan Carden MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1986-10-28T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Liverpool, Walton",
+    "HouseStartDate": "2017-06-08T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Jeremy Corbyn",
+    "ListAs": "Corbyn, Jeremy",
+    "FullTitle": "Rt Hon Jeremy Corbyn MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1949-05-26T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Islington North",
+    "HouseStartDate": "1983-06-09T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Peter Dowd",
+    "ListAs": "Dowd, Peter",
+    "FullTitle": "Peter Dowd MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1957-06-20T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Bootle",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Barry Gardiner",
+    "ListAs": "Gardiner, Barry",
+    "FullTitle": "Barry Gardiner MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1957-03-10T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Brent North",
+    "HouseStartDate": "1997-05-01T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Margaret Greenwood",
+    "ListAs": "Greenwood, Margaret",
+    "FullTitle": "Margaret Greenwood MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1959-03-14T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Wirral West",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Nia Griffith",
+    "ListAs": "Griffith, Nia",
+    "FullTitle": "Nia Griffith MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1956-12-04T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Llanelli",
+    "HouseStartDate": "2005-05-05T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Andrew Gwynne",
+    "ListAs": "Gwynne, Andrew",
+    "FullTitle": "Andrew Gwynne MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1974-06-04T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Denton and Reddish",
+    "HouseStartDate": "2005-05-05T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Sue Hayman",
+    "ListAs": "Hayman, Sue",
+    "FullTitle": "Sue Hayman MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1962-07-28T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Workington",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "John Healey",
+    "ListAs": "Healey, John",
+    "FullTitle": "Rt Hon John Healey MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1960-02-13T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Wentworth and Dearne",
+    "HouseStartDate": "1997-05-01T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Barbara Keeley",
+    "ListAs": "Keeley, Barbara",
+    "FullTitle": "Barbara Keeley MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1952-03-26T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Worsley and Eccles South",
+    "HouseStartDate": "2005-05-05T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Lesley Laird",
+    "ListAs": "Laird, Lesley",
+    "FullTitle": "Lesley Laird MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1958-11-15T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Kirkcaldy and Cowdenbeath",
+    "HouseStartDate": "2017-06-08T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Ian Lavery",
+    "ListAs": "Lavery, Ian",
+    "FullTitle": "Ian Lavery MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1963-01-06T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Wansbeck",
+    "HouseStartDate": "2010-05-06T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Tony Lloyd",
+    "ListAs": "Lloyd, Tony",
+    "FullTitle": "Tony Lloyd MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1950-02-25T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Rochdale",
+    "HouseStartDate": "2017-06-08T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Rebecca Long Bailey",
+    "ListAs": "Long Bailey, Rebecca",
+    "FullTitle": "Rebecca Long Bailey MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1979-09-22T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Salford and Eccles",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Andy McDonald",
+    "ListAs": "McDonald, Andy",
+    "FullTitle": "Andy McDonald MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1958-03-08T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Middlesbrough",
+    "HouseStartDate": "2012-11-29T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "John McDonnell",
+    "ListAs": "McDonnell, John",
+    "FullTitle": "Rt Hon John McDonnell MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1951-09-08T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Hayes and Harlington",
+    "HouseStartDate": "1997-05-01T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Christian Matheson",
+    "ListAs": "Matheson, Christian",
+    "FullTitle": "Christian Matheson MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1968-01-02T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "City of Chester",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Jo Platt",
+    "ListAs": "Platt, Jo",
+    "FullTitle": "Jo Platt MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1973-06-15T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour (Co-op)",
+    "House": "Commons",
+    "MemberFrom": "Leigh",
+    "HouseStartDate": "2017-06-08T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Angela Rayner",
+    "ListAs": "Rayner, Angela",
+    "FullTitle": "Angela Rayner MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1980-03-28T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Ashton-under-Lyne",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Christina Rees",
+    "ListAs": "Rees, Christina",
+    "FullTitle": "Christina Rees MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1954-02-21T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour (Co-op)",
+    "House": "Commons",
+    "MemberFrom": "Neath",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Cat Smith",
+    "ListAs": "Smith, Cat",
+    "FullTitle": "Cat Smith MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1985-06-16T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Lancaster and Fleetwood",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Laura Smith",
+    "ListAs": "Smith, Laura",
+    "FullTitle": "Laura Smith MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Crewe and Nantwich",
+    "HouseStartDate": "2017-06-08T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Keir Starmer",
+    "ListAs": "Starmer, Keir",
+    "FullTitle": "Rt Hon Keir Starmer MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1962-09-20T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Holborn and St Pancras",
+    "HouseStartDate": "2015-05-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Emily Thornberry",
+    "ListAs": "Thornberry, Emily",
+    "FullTitle": "Rt Hon Emily Thornberry MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1960-07-27T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Islington South and Finsbury",
+    "HouseStartDate": "2005-05-05T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Jon Trickett",
+    "ListAs": "Trickett, Jon",
+    "FullTitle": "Jon Trickett MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1950-07-02T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Hemsworth",
+    "HouseStartDate": "1996-02-01T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Valerie Vaz",
+    "ListAs": "Vaz, Valerie",
+    "FullTitle": "Valerie Vaz MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1954-12-07T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "F",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "Walsall South",
+    "HouseStartDate": "2010-05-06T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  },
+  {
+    "DisplayAs": "Tom Watson",
+    "ListAs": "Watson, Tom",
+    "FullTitle": "Tom Watson MP",
+    "LayingMinisterName": "",
+    "DateOfBirth": "1967-01-08T00:00:00",
+    "DateOfDeath": "",
+    "Gender": "M",
+    "Party": "Labour",
+    "House": "Commons",
+    "MemberFrom": "West Bromwich East",
+    "HouseStartDate": "2001-06-07T00:00:00",
+    "HouseEndDate": "",
+    "CurrentStatus": {
+      "Name": "Current Member",
+      "Reason": "",
+      "StartDate": "2017-06-08T00:00:00"
+    }
+  }
+]
