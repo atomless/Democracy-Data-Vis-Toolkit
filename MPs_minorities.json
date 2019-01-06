@@ -19,7 +19,8 @@
     "Twitter": "@HackneyAbbott",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Debbie Abrahams",
@@ -42,7 +43,8 @@
     "Website": "http://www.debbieabrahams.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nigel Adams",
@@ -65,7 +67,8 @@
     "Website": "http://www.selbyandainsty.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bim Afolami",
@@ -85,7 +88,8 @@
     "TelParliamentary": "",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Adam Afriyie",
@@ -106,7 +110,8 @@
     "Website": "http://www.adamafriyie.org/",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Peter Aldous",
@@ -129,7 +134,8 @@
     "Twitter": "@peter_aldous",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rushanara Ali",
@@ -150,7 +156,8 @@
     "Website": "http://www.rushanaraali.org/",
     "Ethnicity": "British Bangladeshi",
     "EthnicityIndex": 3,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lucy Allan",
@@ -171,7 +178,8 @@
     "TelParliamentary": "020 7219 4815",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Heidi Allen",
@@ -192,7 +200,8 @@
     "TelParliamentary": "020 7219 5091",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Rosena Allin-Khan",
@@ -216,7 +225,8 @@
     "Twitter": "@DrRosena",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mike Amesbury",
@@ -237,7 +247,8 @@
     "TelParliamentary": "0207 219 2072",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir David Amess",
@@ -259,7 +270,8 @@
     "TelConstituency": "01702 472391",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stuart Andrew",
@@ -282,7 +294,8 @@
     "TelConstituency": "0113 2585615",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Tonia Antoniazzi",
@@ -305,7 +318,8 @@
     "Twitter": "@ToniaAntoniazzi",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Edward Argar",
@@ -325,7 +339,8 @@
     "TelParliamentary": "020 7219 8140",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jonathan Ashworth",
@@ -349,7 +364,8 @@
     "TelConstituency": "0116 251 1927",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Victoria Atkins",
@@ -373,7 +389,8 @@
     "TelParliamentary": "020 7219 5897",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ian Austin",
@@ -396,7 +413,8 @@
     "Website": "http://www.ianaustin.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Richard Bacon",
@@ -418,7 +436,8 @@
     "TelParliamentary": "020 7219 8301",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Kemi Badenoch",
@@ -441,7 +460,8 @@
     "Twitter": "@KemiBadenoch",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Adrian Bailey",
@@ -463,7 +483,8 @@
     "Twitter": "@AdrianBaileyMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Steve Baker",
@@ -486,7 +507,8 @@
     "TelConstituency": "01494 448408",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Harriett Baldwin",
@@ -510,7 +532,8 @@
     "Twitter": "@HBaldwinMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Barclay",
@@ -534,7 +557,8 @@
     "Twitter": "@SteveBarclayMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Hannah Bardell",
@@ -555,7 +579,8 @@
     "TelParliamentary": "020 7219 5907",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mr John Baron",
@@ -577,7 +602,8 @@
     "TelParliamentary": "020 7219 8138",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Kevin Barron",
@@ -599,7 +625,8 @@
     "TelParliamentary": "020 7219 4432; 020 7219 6306",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Guto Bebb",
@@ -622,7 +649,8 @@
     "Website": "http://www.gutobebb.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Margaret Beckett",
@@ -643,7 +671,8 @@
     "TelParliamentary": "020 7219 5135; 020 7219 2088; Fax 020 7219 4780",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Órfhlaith Begley",
@@ -660,7 +689,8 @@
     "FrontBench": false,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Henry Bellingham",
@@ -682,7 +712,8 @@
     "TelConstituency": "01485 600559",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Hilary Benn",
@@ -705,7 +736,8 @@
     "Website": "http://www.hilarybennmp.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Richard Benyon",
@@ -728,7 +760,8 @@
     "Website": "http://www.richardbenyon.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Bercow",
@@ -750,7 +783,8 @@
     "Website": "http://www.johnbercow.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Paul Beresford",
@@ -772,7 +806,8 @@
     "Website": "http://www.molevalleyconservatives.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Luciana Berger",
@@ -795,7 +830,8 @@
     "TelParliamentary": "020 7219 7102",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jake Berry",
@@ -819,7 +855,8 @@
     "TelParliamentary": "020 7219 7214",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Clive Betts",
@@ -842,7 +879,8 @@
     "Twitter": "@CliveBettsMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mhairi Black",
@@ -866,7 +904,8 @@
     "TelParliamentary": "020 7219 5558",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Ian Blackford",
@@ -889,7 +928,8 @@
     "Website": "https://ianblackford.scot",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bob Blackman",
@@ -912,7 +952,8 @@
     "Website": "http://www.bobblackmanmp.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kirsty Blackman",
@@ -936,7 +977,8 @@
     "TelConstituency": "Call: 01224 633285 | Text: 07464 606650",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Roberta Blackman-Woods",
@@ -960,7 +1002,8 @@
     "Twitter": "@robertabwMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Blomfield",
@@ -984,7 +1027,8 @@
     "TelConstituency": "0114 272 2882  Fax: 0114 272 2442",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Crispin Blunt",
@@ -1007,7 +1051,8 @@
     "Twitter": "@crispinbluntmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Nick Boles",
@@ -1030,7 +1075,8 @@
     "TelConstituency": "01778 218120",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mr Peter Bone",
@@ -1053,7 +1099,8 @@
     "TelConstituency": "01933 279343",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Peter Bottomley",
@@ -1075,7 +1122,8 @@
     "Website": "http://www.sirpeterbottomley.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Bowie",
@@ -1097,7 +1145,8 @@
     "TelParliamentary": "0207 219 2791",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tracy Brabin",
@@ -1121,7 +1170,8 @@
     "Website": "https://tracybrabinmp.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ben Bradley",
@@ -1145,7 +1195,8 @@
     "TelConstituency": "01623 372016",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Karen Bradley",
@@ -1168,7 +1219,8 @@
     "Website": "http://www.karenbradley.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Ben Bradshaw",
@@ -1191,7 +1243,8 @@
     "TelParliamentary": "020 7219 6597",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Sir Graham Brady",
@@ -1213,7 +1266,8 @@
     "TelConstituency": "0161 904 8828",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mickey Brady",
@@ -1235,7 +1289,8 @@
     "TelConstituency": "028 3026 1693",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tom Brake",
@@ -1259,7 +1314,8 @@
     "TelConstituency": "020 8255 8155",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Suella Braverman",
@@ -1280,7 +1336,8 @@
     "TelParliamentary": "020 7219 6504",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kevin Brennan",
@@ -1304,7 +1361,8 @@
     "TelParliamentary": "020 7219 8156",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jack Brereton",
@@ -1326,7 +1384,8 @@
     "TelParliamentary": "0207 219 4460",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Bridgen",
@@ -1349,7 +1408,8 @@
     "Twitter": "@ABridgen",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Steve Brine",
@@ -1372,7 +1432,8 @@
     "TelConstituency": "01962 791110",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Deidre Brock",
@@ -1396,7 +1457,8 @@
     "TelParliamentary": "020 7219 6647",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Brokenshire",
@@ -1420,7 +1482,8 @@
     "TelParliamentary": "020 7219 8400",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alan Brown",
@@ -1444,7 +1507,8 @@
     "TelConstituency": "01563 501412",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lyn Brown",
@@ -1466,7 +1530,8 @@
     "Website": "http://www.lynbrown.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Nicholas Brown",
@@ -1489,7 +1554,8 @@
     "TelParliamentary": "020 7219 6814",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Fiona Bruce",
@@ -1511,7 +1577,8 @@
     "TelParliamentary": "020 7219 7042",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Bryant",
@@ -1533,7 +1600,8 @@
     "TelParliamentary": "020 7219 8315",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Ms Karen Buck",
@@ -1556,7 +1624,8 @@
     "Twitter": "@KarenPBuckMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Robert Buckland",
@@ -1580,7 +1649,8 @@
     "TelParliamentary": "020 7219 7168",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Richard Burden",
@@ -1603,7 +1673,8 @@
     "Twitter": "@RichardBurdenMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alex Burghart",
@@ -1626,7 +1697,8 @@
     "TelParliamentary": "0207 219 1613",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Richard Burgon",
@@ -1648,7 +1720,8 @@
     "TelParliamentary": "020 7219 5980",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Conor Burns",
@@ -1671,7 +1744,8 @@
     "Twitter": "@ConorBurnsUK",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Alistair Burt",
@@ -1695,7 +1769,8 @@
     "Twitter": "@AlistairBurtMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dawn Butler",
@@ -1716,7 +1791,8 @@
     "Twitter": "@dawnbutlerbrent",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Liam Byrne",
@@ -1740,7 +1816,8 @@
     "Twitter": "@LiamByrneMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Vince Cable",
@@ -1762,7 +1839,8 @@
     "TelConstituency": "020 8977 0606",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ruth Cadbury",
@@ -1785,7 +1863,8 @@
     "Website": "https://ruthcadbury.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alun Cairns",
@@ -1809,7 +1888,8 @@
     "Twitter": "@AlunCairns",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Lisa Cameron",
@@ -1833,7 +1913,8 @@
     "TelConstituency": "01355 587430",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Alan Campbell",
@@ -1857,7 +1938,8 @@
     "Twitter": "@alancampbellmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Gregory Campbell",
@@ -1880,7 +1962,8 @@
     "Website": "http://www.duplondonderry.co.uk/campbell.html",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Ronnie Campbell",
@@ -1901,7 +1984,8 @@
     "TelConstituency": "01670 363050",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dan Carden",
@@ -1925,7 +2009,8 @@
     "Twitter": "@DanCardenMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mr Alistair Carmichael",
@@ -1949,7 +2034,8 @@
     "Twitter": "@acarmichaelmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Cartlidge",
@@ -1969,7 +2055,8 @@
     "Twitter": "@jc4southsuffolk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir William Cash",
@@ -1992,7 +2079,8 @@
     "Twitter": "@BillCashMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Maria Caulfield",
@@ -2013,7 +2101,8 @@
     "Website": "http://www.mariacaulfield.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alex Chalk",
@@ -2036,7 +2125,8 @@
     "TelParliamentary": "020 7219 8087",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sarah Champion",
@@ -2059,7 +2149,8 @@
     "Website": "http://www.sarahchampionmp.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Douglas Chapman",
@@ -2082,7 +2173,8 @@
     "TelConstituency": "01383 427311",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jenny Chapman",
@@ -2105,7 +2197,8 @@
     "TelConstituency": "01325 382345",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bambos Charalambous",
@@ -2126,7 +2219,8 @@
     "TelParliamentary": "0207 219 3460",
     "Ethnicity": "British Cypriot",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Joanna Cherry",
@@ -2150,7 +2244,8 @@
     "Website": "http://www.snp.org/joanna_cherry",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Rehman Chishti",
@@ -2173,7 +2268,8 @@
     "Twitter": "@Rehman_Chishti",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Christopher Chope",
@@ -2195,7 +2291,8 @@
     "TelConstituency": "01425 541087",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jo Churchill",
@@ -2217,7 +2314,8 @@
     "TelParliamentary": "020 7219 8487",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Colin Clark",
@@ -2240,7 +2338,8 @@
     "Website": "https://www.colinclark.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Greg Clark",
@@ -2262,7 +2361,8 @@
     "Twitter": "@gregclarkmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Kenneth Clarke",
@@ -2282,7 +2382,8 @@
     "TelParliamentary": "0207 219 5189",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Simon Clarke",
@@ -2303,7 +2404,8 @@
     "Twitter": "@SimonClarke84",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Cleverly",
@@ -2323,7 +2425,8 @@
     "TelParliamentary": "020 7219 8593",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Geoffrey Clifton-Brown",
@@ -2343,7 +2446,8 @@
     "TelParliamentary": "020 7219 5147",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ann Clwyd",
@@ -2365,7 +2469,8 @@
     "Twitter": "@AnnClwyd",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Vernon Coaker",
@@ -2388,7 +2493,8 @@
     "Twitter": "@Vernon_Coaker",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ann Coffey",
@@ -2411,7 +2517,8 @@
     "TelConstituency": "0161 483 2600",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Thérèse Coffey",
@@ -2433,7 +2540,8 @@
     "TelParliamentary": "020 7219 7164",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Damian Collins",
@@ -2456,7 +2564,8 @@
     "TelConstituency": "01303 253524",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Julie Cooper",
@@ -2477,7 +2586,8 @@
     "TelParliamentary": "020 7219 8521",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rosie Cooper",
@@ -2500,7 +2610,8 @@
     "Website": "http://www.rosiecooper.net/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Yvette Cooper",
@@ -2523,7 +2634,8 @@
     "TelParliamentary": "020 7219 5080",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jeremy Corbyn",
@@ -2547,7 +2659,8 @@
     "TelConstituency": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alberto Costa",
@@ -2568,7 +2681,8 @@
     "Website": "http://www.albertocosta.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Robert Courts",
@@ -2589,7 +2703,8 @@
     "TelParliamentary": "0207 219 5638",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ronnie Cowan",
@@ -2613,7 +2728,8 @@
     "TelParliamentary": "020 7219 6122",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Geoffrey Cox",
@@ -2637,7 +2753,8 @@
     "Twitter": "@Geoffrey_Cox",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Neil Coyle",
@@ -2658,7 +2775,8 @@
     "Website": "http://www.boslabour.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Crabb",
@@ -2681,7 +2799,8 @@
     "Twitter": "@SCrabbMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir David Crausby",
@@ -2704,7 +2823,8 @@
     "Twitter": "@DavidCrausby",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Angela Crawley",
@@ -2728,7 +2848,8 @@
     "TelParliamentary": "020 7219 6044",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mary Creagh",
@@ -2751,7 +2872,8 @@
     "TelConstituency": "01924 386124",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stella Creasy",
@@ -2774,7 +2896,8 @@
     "TelParliamentary": "020 7219 6980",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tracey Crouch",
@@ -2797,7 +2920,8 @@
     "TelParliamentary": "020 7219 7203",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jon Cruddas",
@@ -2820,7 +2944,8 @@
     "TelParliamentary": "020 7219 8161",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Cryer",
@@ -2842,7 +2967,8 @@
     "TelParliamentary": "020 7219 7100",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Judith Cummins",
@@ -2866,7 +2992,8 @@
     "TelParliamentary": "020 7219 8607",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alex Cunningham",
@@ -2889,7 +3016,8 @@
     "Twitter": "@ACunninghamMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Jim Cunningham",
@@ -2911,7 +3039,8 @@
     "Website": "http://www.jimcunningham.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Janet Daby",
@@ -2934,7 +3063,8 @@
     "Twitter": "@JanetDaby",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nic Dakin",
@@ -2958,7 +3088,8 @@
     "TelConstituency": "01724 842000",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Edward Davey",
@@ -2981,7 +3112,8 @@
     "TelParliamentary": "020 7219 4530",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Wayne David",
@@ -3005,7 +3137,8 @@
     "Website": "http://www.waynedavid.labour.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Davies",
@@ -3027,7 +3160,8 @@
     "TelParliamentary": "020 7219 8592",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David T. C. Davies",
@@ -3050,7 +3184,8 @@
     "TelConstituency": "01291 672817",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Geraint Davies",
@@ -3073,7 +3208,8 @@
     "Twitter": "@GeraintDaviesMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Glyn Davies",
@@ -3095,7 +3231,8 @@
     "Website": "http://www.glyn-davies.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mims Davies",
@@ -3116,7 +3253,8 @@
     "Twitter": "@mimsdavies",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Philip Davies",
@@ -3139,7 +3277,8 @@
     "Twitter": "@PhilipDaviesMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr David Davis",
@@ -3156,7 +3295,8 @@
     "FrontBench": false,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Martyn Day",
@@ -3173,7 +3313,8 @@
     "FrontBench": false,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Marsha De Cordova",
@@ -3195,7 +3336,8 @@
     "Website": "http://marshadecordova.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gloria De Piero",
@@ -3219,7 +3361,8 @@
     "Twitter": "@GloriaDePiero",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Thangam Debbonaire",
@@ -3243,7 +3386,8 @@
     "TelParliamentary": "",
     "Ethnicity": "Anglo-Indian",
     "EthnicityIndex": 2,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Emma Dent Coad",
@@ -3265,7 +3409,8 @@
     "TelParliamentary": "0207 219 6422 (Mon to Thur)",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Tanmanjeet Singh Dhesi",
@@ -3286,7 +3431,8 @@
     "Twitter": "@TanDhesi",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Caroline Dinenage",
@@ -3310,7 +3456,8 @@
     "Twitter": "@cj_dinenage",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Jonathan Djanogly",
@@ -3333,7 +3480,8 @@
     "Twitter": "@JDjanogly",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Leo Docherty",
@@ -3356,7 +3504,8 @@
     "TelConstituency": "01252 377567",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Martin Docherty-Hughes",
@@ -3380,7 +3529,8 @@
     "TelParliamentary": "020 7219 4609",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Anneliese Dodds",
@@ -3403,7 +3553,8 @@
     "Website": "http://www.anneliesedodds.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nigel Dodds",
@@ -3426,7 +3577,8 @@
     "TelParliamentary": "020 7219 8419",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Jeffrey M. Donaldson",
@@ -3449,7 +3601,8 @@
     "Twitter": "@J_Donaldson_MP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Michelle Donelan",
@@ -3473,7 +3626,8 @@
     "TelConstituency": "01249 704465",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ms Nadine Dorries",
@@ -3494,7 +3648,8 @@
     "Twitter": "@NadineDorriesMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Steve Double",
@@ -3515,7 +3670,8 @@
     "Website": "http://www.stevedouble.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Doughty",
@@ -3538,7 +3694,8 @@
     "TelConstituency": "02922 677 904",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Peter Dowd",
@@ -3559,7 +3716,8 @@
     "TelParliamentary": "020 7219 8671",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Oliver Dowden",
@@ -3580,7 +3738,8 @@
     "TelParliamentary": "020 7219 3415",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jackie Doyle-Price",
@@ -3604,7 +3763,8 @@
     "Twitter": "@JACKIEDP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Richard Drax",
@@ -3626,7 +3786,8 @@
     "Website": "http://www.richarddrax.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr David Drew",
@@ -3644,7 +3805,8 @@
     "Post": "Shadow Minister (Environment, Food and Rural Affairs)",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jack Dromey",
@@ -3668,7 +3830,8 @@
     "Twitter": "@JackDromeyMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Duddridge",
@@ -3691,7 +3854,8 @@
     "Twitter": "@JamesDuddridge",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rosie Duffield",
@@ -3712,7 +3876,8 @@
     "Website": "http://www.rosieduffieldmp.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Duguid",
@@ -3732,7 +3897,8 @@
     "Twitter": "@david_duguid",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Alan Duncan",
@@ -3756,7 +3922,8 @@
     "Twitter": "@alanduncanmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mr Iain Duncan Smith",
@@ -3778,7 +3945,8 @@
     "TelConstituency": "020 8524 4344",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Philip Dunne",
@@ -3801,7 +3969,8 @@
     "Twitter": "@dunne4ludlow",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ms Angela Eagle",
@@ -3824,7 +3993,8 @@
     "TelConstituency": "0151 637 1979",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Maria Eagle",
@@ -3847,7 +4017,8 @@
     "Twitter": "@meaglemp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jonathan Edwards",
@@ -3871,7 +4042,8 @@
     "Twitter": "@JonathanPlaid",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Clive Efford",
@@ -3894,7 +4066,8 @@
     "Twitter": "@CliveEfford",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Julie Elliott",
@@ -3917,7 +4090,8 @@
     "TelConstituency": "0191 565 5327",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Michael Ellis",
@@ -3941,7 +4115,8 @@
     "Website": "http://www.michaelellis.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dame Louise Ellman",
@@ -3964,7 +4139,8 @@
     "TelParliamentary": "020 7219 5210",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Tobias Ellwood",
@@ -3988,7 +4164,8 @@
     "TelConstituency": "01202 801990",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Elmore",
@@ -4012,7 +4189,8 @@
     "Website": "http://www.chriselmore.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Charlie Elphicke",
@@ -4035,7 +4213,8 @@
     "Twitter": "@CharlieElphicke",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bill Esterson",
@@ -4059,7 +4238,8 @@
     "Twitter": "@Bill_Esterson",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "George Eustice",
@@ -4081,7 +4261,8 @@
     "TelConstituency": "01209 713355",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Evans",
@@ -4103,7 +4284,8 @@
     "TelConstituency": "01495 231990",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Nigel Evans",
@@ -4124,7 +4306,8 @@
     "TelConstituency": "01200 428 011",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Sir David Evennett",
@@ -4147,7 +4330,8 @@
     "Twitter": "@DavidEvennett",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Michael Fabricant",
@@ -4170,7 +4354,8 @@
     "TelConstituency": "01543 419650",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Sir Michael Fallon",
@@ -4190,7 +4375,8 @@
     "Website": "http://www.michaelfallonmp.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Farrelly",
@@ -4212,7 +4398,8 @@
     "Website": "http://www.paulfarrelly.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tim Farron",
@@ -4236,7 +4423,8 @@
     "Twitter": "@timfarron",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Marion Fellows",
@@ -4260,7 +4448,8 @@
     "Website": "http://marionfellows.scot/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Frank Field",
@@ -4283,7 +4472,8 @@
     "Twitter": "@frankfieldteam",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Field",
@@ -4305,7 +4495,8 @@
     "Twitter": "@MarkFieldUK",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jim Fitzpatrick",
@@ -4326,7 +4517,8 @@
     "Twitter": "@FitzMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Colleen Fletcher",
@@ -4348,7 +4540,8 @@
     "TelParliamentary": "020 7219 8036",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Caroline Flint",
@@ -4371,7 +4564,8 @@
     "Website": "http://www.carolineflint.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Flynn",
@@ -4394,7 +4588,8 @@
     "Twitter": "@Paulflynnmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Vicky Ford",
@@ -4415,7 +4610,8 @@
     "Twitter": "@vickyford",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kevin Foster",
@@ -4436,7 +4632,8 @@
     "TelParliamentary": "020 7219 4711",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Yvonne Fovargue",
@@ -4460,7 +4657,8 @@
     "TelParliamentary": "020 7219 3000",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Liam Fox",
@@ -4483,7 +4681,8 @@
     "Twitter": "@LiamFox",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Vicky Foxcroft",
@@ -4507,7 +4706,8 @@
     "TelConstituency": "020 8469 4638",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Mark Francois",
@@ -4528,7 +4728,8 @@
     "TelParliamentary": "020 7219 8287",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lucy Frazer",
@@ -4549,7 +4750,8 @@
     "Website": "http://www.lucyfrazer.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "George Freeman",
@@ -4572,7 +4774,8 @@
     "Website": "http://www.georgefreeman.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mike Freer",
@@ -4595,7 +4798,8 @@
     "Twitter": "@mikefreermp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "James Frith",
@@ -4616,7 +4820,8 @@
     "TelParliamentary": "0207 219 2907",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gill Furniss",
@@ -4640,7 +4845,8 @@
     "Website": "https://gillfurniss.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Marcus Fysh",
@@ -4661,7 +4867,8 @@
     "Website": "http://www.marcusfysh.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Hugh Gaffney",
@@ -4683,7 +4890,8 @@
     "TelConstituency": "01236 434 565",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Roger Gale",
@@ -4705,7 +4913,8 @@
     "TelParliamentary": "020 7219 4087",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mike Gapes",
@@ -4726,7 +4935,8 @@
     "Twitter": "@MikeGapes",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Barry Gardiner",
@@ -4748,7 +4958,8 @@
     "Twitter": "@BarryGardiner",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Garnier",
@@ -4771,7 +4982,8 @@
     "Website": "http://www.markgarnier.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr David Gauke",
@@ -4794,7 +5006,8 @@
     "TelConstituency": "01923 771781",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ruth George",
@@ -4816,7 +5029,8 @@
     "TelParliamentary": "0207 219 1803",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Gethins",
@@ -4840,7 +5054,8 @@
     "Twitter": "@stephengethins",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ms Nusrat Ghani",
@@ -4862,7 +5077,8 @@
     "Website": "http://www.nusghani.org.uk/",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nick Gibb",
@@ -4886,7 +5102,8 @@
     "Website": "https://www.gov.uk/government/organisations/department-for-education",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Patricia Gibson",
@@ -4910,7 +5127,8 @@
     "TelParliamentary": "020 7219 5748",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Michelle Gildernew",
@@ -4932,7 +5150,8 @@
     "TelConstituency": "028 8556 9250",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Preet Kaur Gill",
@@ -4959,7 +5178,8 @@
     "TelParliamentary": "0207 219 2879",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dame Cheryl Gillan",
@@ -4982,7 +5202,8 @@
     "Twitter": "@CherylGillanMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Girvan",
@@ -5003,7 +5224,8 @@
     "TelParliamentary": "0207 219 3987",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Glen",
@@ -5027,7 +5249,8 @@
     "Website": "http://www.johnglen.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mary Glindon",
@@ -5050,7 +5273,8 @@
     "TelConstituency": "0191 234 2493",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Roger Godsiff",
@@ -5073,7 +5297,8 @@
     "Twitter": "@RogerGodsiff",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Zac Goldsmith",
@@ -5096,7 +5321,8 @@
     "TelParliamentary": "020 8878 7866",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Helen Goodman",
@@ -5120,7 +5346,8 @@
     "Website": "http://www.helengoodman.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Robert Goodwill",
@@ -5142,7 +5369,8 @@
     "TelParliamentary": "020 7219 8268",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Michael Gove",
@@ -5165,7 +5393,8 @@
     "TelConstituency": "01276 472468",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Patrick Grady",
@@ -5189,7 +5418,8 @@
     "Website": "http://www.patrickgrady.scot/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Luke Graham",
@@ -5213,7 +5443,8 @@
     "Twitter": "@lukegrahammp?lang=en",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Richard Graham",
@@ -5236,7 +5467,8 @@
     "TelConstituency": "01452 501167",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bill Grant",
@@ -5257,7 +5489,8 @@
     "TelParliamentary": "0207 219 1548",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Helen Grant",
@@ -5280,7 +5513,8 @@
     "Website": "http://www.helengrant.org/",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Peter Grant",
@@ -5307,7 +5541,8 @@
     "TelConstituency": "01592 759335",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Gray",
@@ -5328,7 +5563,8 @@
     "TelParliamentary": "020 7219 6237",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Neil Gray",
@@ -5352,7 +5588,8 @@
     "Website": "https://www.snp.org/neil_gray",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Grayling",
@@ -5376,7 +5613,8 @@
     "Twitter": "@transportgovuk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Green",
@@ -5399,7 +5637,8 @@
     "TelConstituency": "01942 409132",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Damian Green",
@@ -5422,7 +5661,8 @@
     "Twitter": "@damiangreenmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kate Green",
@@ -5445,7 +5685,8 @@
     "Website": "http://www.kategreen.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Justine Greening",
@@ -5468,7 +5709,8 @@
     "Website": "http://www.justinegreening.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Lilian Greenwood",
@@ -5491,7 +5733,8 @@
     "Twitter": "@LilianGreenwood",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Margaret Greenwood",
@@ -5515,7 +5758,8 @@
     "TelConstituency": "0151 792 3416",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Dominic Grieve",
@@ -5537,7 +5781,8 @@
     "TelParliamentary": "020 7219 6220",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nia Griffith",
@@ -5561,7 +5806,8 @@
     "Website": "http://niagriffith.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Andrew Griffiths",
@@ -5584,7 +5830,8 @@
     "Twitter": "@agriffithsmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Grogan",
@@ -5605,7 +5852,8 @@
     "TelConstituency": "01535 681433",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Gwynne",
@@ -5629,7 +5877,8 @@
     "Twitter": "@GwynneMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Sam Gyimah",
@@ -5650,7 +5899,8 @@
     "TelParliamentary": "020 7219 3504",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Louise Haigh",
@@ -5674,7 +5924,8 @@
     "TelParliamentary": "0207 219 5255",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kirstene Hair",
@@ -5694,7 +5945,8 @@
     "TelParliamentary": "0207 219 0202",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Robert Halfon",
@@ -5717,7 +5969,8 @@
     "Twitter": "@halfon4harlowMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Luke Hall",
@@ -5740,7 +5993,8 @@
     "Twitter": "@LukeHallMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Fabian Hamilton",
@@ -5763,7 +6017,8 @@
     "Website": "http://www.leedsne.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Philip Hammond",
@@ -5787,7 +6042,8 @@
     "TelConstituency": "01276 472910",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Hammond",
@@ -5809,7 +6065,8 @@
     "Website": "https://www.stephenhammond.net/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Matt Hancock",
@@ -5833,7 +6090,8 @@
     "Website": "https://www.matt-hancock.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Greg Hands",
@@ -5856,7 +6114,8 @@
     "Twitter": "@GregHands",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Hanson",
@@ -5879,7 +6138,8 @@
     "Twitter": "@DavidHansonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Emma Hardy",
@@ -5904,7 +6164,8 @@
     "Twitter": "@EmmaHardyMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ms Harriet Harman",
@@ -5925,7 +6186,8 @@
     "Twitter": "@HarrietHarman",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Mark Harper",
@@ -5948,7 +6210,8 @@
     "Twitter": "@Mark_J_Harper",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Richard Harrington",
@@ -5972,7 +6235,8 @@
     "Website": "http://www.richardharrington.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Carolyn Harris",
@@ -5996,7 +6260,8 @@
     "TelConstituency": "01792 462054",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rebecca Harris",
@@ -6014,7 +6279,8 @@
     "Post": "Lord Commissioner (HM Treasury) (Whip)",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Trudy Harrison",
@@ -6036,7 +6302,8 @@
     "Website": "https://www.trudyharrison.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Simon Hart",
@@ -6059,7 +6326,8 @@
     "Website": "http://www.simon-hart.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Helen Hayes",
@@ -6080,7 +6348,8 @@
     "Website": "http://www.helenhayes.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir John Hayes",
@@ -6101,7 +6370,8 @@
     "TelParliamentary": "020 7219 1389",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sue Hayman",
@@ -6122,7 +6392,8 @@
     "TelParliamentary": "020 7219 4554",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Hazzard",
@@ -6144,7 +6415,8 @@
     "TelConstituency": "028 4377 0185",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Oliver Heald",
@@ -6167,7 +6439,8 @@
     "TelParliamentary": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Healey",
@@ -6191,7 +6464,8 @@
     "Website": "http://www.johnhealeymp.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Heappey",
@@ -6212,7 +6486,8 @@
     "Website": "http://www.jamesheappey.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Heaton-Harris",
@@ -6234,7 +6509,8 @@
     "Twitter": "@chhcalling",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Peter Heaton-Jones",
@@ -6255,7 +6531,8 @@
     "Website": "http://www.peterheatonjones.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gordon Henderson",
@@ -6277,7 +6554,8 @@
     "TelConstituency": "01795 423199",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Mark Hendrick",
@@ -6299,7 +6577,8 @@
     "TelParliamentary": "020 7219 4791",
     "Ethnicity": "Somali",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Drew Hendry",
@@ -6323,7 +6602,8 @@
     "TelParliamentary": "020 7219 6118",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Stephen Hepburn",
@@ -6344,7 +6624,8 @@
     "TelConstituency": "0191 420 0648",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nick Herbert",
@@ -6365,7 +6646,8 @@
     "Twitter": "@nickherbertmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Lady Hermon",
@@ -6386,7 +6668,8 @@
     "TelConstituency": "028 9127 5858",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mike Hill",
@@ -6410,7 +6693,8 @@
     "TelConstituency": 1429290168,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Meg Hillier",
@@ -6431,7 +6715,8 @@
     "Twitter": "@Meg_HillierMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Damian Hinds",
@@ -6452,7 +6737,8 @@
     "Website": "https://www.gov.uk/government/organisations/department-for-education",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Simon Hoare",
@@ -6472,7 +6758,8 @@
     "Twitter": "@simon4ndorset",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Wera Hobhouse",
@@ -6495,7 +6782,8 @@
     "TelConstituency": "01225 307024",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dame Margaret Hodge",
@@ -6518,7 +6806,8 @@
     "Website": "http://margaret-hodge.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Sharon Hodgson",
@@ -6542,7 +6831,8 @@
     "Website": "http://www.sharonhodgson.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kate Hoey",
@@ -6563,7 +6853,8 @@
     "Website": "http://www.katehoey.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kate Hollern",
@@ -6587,7 +6878,8 @@
     "Twitter": "@kate_hollernmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "George Hollingbery",
@@ -6610,7 +6902,8 @@
     "Website": "http://www.georgehollingbery.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kevin Hollinrake",
@@ -6631,7 +6924,8 @@
     "Website": "http://www.kevinhollinrake.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Philip Hollobone",
@@ -6652,7 +6946,8 @@
     "TelConstituency": "01536 414715; 07979 850126",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Adam Holloway",
@@ -6672,7 +6967,8 @@
     "TelParliamentary": "020 7219 8402",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kelvin Hopkins",
@@ -6694,7 +6990,8 @@
     "TelConstituency": "01582 488208",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stewart Hosie",
@@ -6718,7 +7015,8 @@
     "Twitter": "@StewartHosieMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr George Howarth",
@@ -6740,7 +7038,8 @@
     "Website": "http://www.georgehowarth.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Howell",
@@ -6763,7 +7062,8 @@
     "Website": "http://www.johnhowellmp.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Lindsay Hoyle",
@@ -6785,7 +7085,8 @@
     "Twitter": "@LindsayHoyle_MP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nigel Huddleston",
@@ -6806,7 +7107,8 @@
     "TelParliamentary": "020 7219 5814",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Eddie Hughes",
@@ -6828,7 +7130,8 @@
     "TelParliamentary": "0207 219 1974",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Jeremy Hunt",
@@ -6852,7 +7155,8 @@
     "Twitter": "@Jeremy_Hunt",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Rupa Huq",
@@ -6872,7 +7176,8 @@
     "TelParliamentary": "020 7219 6865",
     "Ethnicity": "British Bangladeshi",
     "EthnicityIndex": 3,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Nick Hurd",
@@ -6896,7 +7201,8 @@
     "Twitter": "@nickhurdmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Imran Hussain",
@@ -6920,7 +7226,8 @@
     "TelConstituency": "01274 231527",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Alister Jack",
@@ -6942,7 +7249,8 @@
     "TelParliamentary": "0207 219 2994",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Margot James",
@@ -6966,7 +7274,8 @@
     "Twitter": "@margot_james_mp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Christine Jardine",
@@ -6989,7 +7298,8 @@
     "TelConstituency": "0131 285 5972",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dan Jarvis",
@@ -7012,7 +7322,8 @@
     "Website": "www.danjarvis.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sajid Javid",
@@ -7036,7 +7347,8 @@
     "Twitter": "@sajidjavid",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Ranil Jayawardena",
@@ -7059,7 +7371,8 @@
     "TelConstituency": "01256 702468",
     "Ethnicity": "British Sri Lankan",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Bernard Jenkin",
@@ -7082,7 +7395,8 @@
     "Website": "http://www.bernardjenkinmp.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrea Jenkyns",
@@ -7105,7 +7419,8 @@
     "TelParliamentary": "020 7219 5798",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Robert Jenrick",
@@ -7129,7 +7444,8 @@
     "TelConstituency": "01636 612 837",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Boris Johnson",
@@ -7149,7 +7465,8 @@
     "Twitter": "@borisjohnson",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Caroline Johnson",
@@ -7175,7 +7492,8 @@
     "TelConstituency": "01529 306721",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Diana Johnson",
@@ -7198,7 +7516,8 @@
     "Twitter": "@DianaJohnsonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gareth Johnson",
@@ -7219,7 +7538,8 @@
     "TelParliamentary": "020 7219 7047",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Joseph Johnson",
@@ -7242,7 +7562,8 @@
     "Twitter": "@JoJohnsonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Jones",
@@ -7266,7 +7587,8 @@
     "Website": "http://www.andrewjonesmp.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Darren Jones",
@@ -7287,7 +7609,8 @@
     "TelParliamentary": 1179596545,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr David Jones",
@@ -7309,7 +7632,8 @@
     "Website": "http://www.davidjonesmp.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gerald Jones",
@@ -7333,7 +7657,8 @@
     "TelParliamentary": "020 7219 5874",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Graham P Jones",
@@ -7356,7 +7681,8 @@
     "Twitter": "@GrahamJones_MP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Helen Jones",
@@ -7378,7 +7704,8 @@
     "Twitter": "@HelenJonesMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Kevan Jones",
@@ -7401,7 +7728,8 @@
     "Twitter": "@KevanJonesMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Marcus Jones",
@@ -7424,7 +7752,8 @@
     "Website": "http://www.marcusjones.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sarah Jones",
@@ -7448,7 +7777,8 @@
     "TelParliamentary": "0207 219 2963",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Susan Elan Jones",
@@ -7471,7 +7801,8 @@
     "TelParliamentary": "01978 824288",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mike Kane",
@@ -7494,7 +7825,8 @@
     "TelParliamentary": "020 7219 7524",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Daniel Kawczynski",
@@ -7517,7 +7849,8 @@
     "TelParliamentary": "020 7219 6249",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Gillian Keegan",
@@ -7540,7 +7873,8 @@
     "TelParliamentary": "0207 219 1193",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Barbara Keeley",
@@ -7564,7 +7898,8 @@
     "Website": "http://www.barbarakeeley.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Liz Kendall",
@@ -7587,7 +7922,8 @@
     "Website": "http://www.lizkendall.org",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Seema Kennedy",
@@ -7608,7 +7944,8 @@
     "TelParliamentary": "020 7219 4412",
     "Ethnicity": "British Iranian",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Kerr",
@@ -7630,7 +7967,8 @@
     "TelConstituency": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Afzal Khan",
@@ -7654,7 +7992,8 @@
     "Website": "http://www.afzalkhan.org.uk/",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ged Killen",
@@ -7677,7 +8016,8 @@
     "Twitter": "@Gedk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Stephen Kinnock",
@@ -7698,7 +8038,8 @@
     "Website": "http://www.stephenkinnock.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Greg Knight",
@@ -7721,7 +8062,8 @@
     "TelParliamentary": "020 7219 4077",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Julian Knight",
@@ -7744,7 +8086,8 @@
     "TelConstituency": "0121 709 0458",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kwasi Kwarteng",
@@ -7767,7 +8110,8 @@
     "Website": "http://kwasi4spelthorne.org.uk/",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Peter Kyle",
@@ -7790,7 +8134,8 @@
     "TelParliamentary": "020 7219 6133",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Dame Eleanor Laing",
@@ -7813,7 +8158,8 @@
     "Website": "http://www.eleanorlaing.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lesley Laird",
@@ -7836,7 +8182,8 @@
     "Twitter": "@LesleyLaird",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ben Lake",
@@ -7858,7 +8205,8 @@
     "TelConstituency": "01570 940 333",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Norman Lamb",
@@ -7881,7 +8229,8 @@
     "TelConstituency": "01692 403752",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr David Lammy",
@@ -7904,7 +8253,8 @@
     "TelParliamentary": "020 7219 0767",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Lamont",
@@ -7927,7 +8277,8 @@
     "Twitter": "@John2Win",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Lancaster",
@@ -7951,7 +8302,8 @@
     "Twitter": "@MarkLancasterMK",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Pauline Latham",
@@ -7974,7 +8326,8 @@
     "Twitter": "@Pauline_Latham",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ian Lavery",
@@ -7985,7 +8338,7 @@
     "Party": "Labour",
     "MemberFrom": "Wansbeck",
     "MemberID": "4139",
-    "Age": 55,
+    "Age": 56,
     "Generation": "Baby Boomer",
     "FirstAndLastName": "ian lavery",
     "FrontBench": true,
@@ -7998,7 +8351,8 @@
     "Twitter": "@IanLaveryMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Law",
@@ -8022,7 +8376,8 @@
     "TelParliamentary": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrea Leadsom",
@@ -8046,7 +8401,8 @@
     "Twitter": "@andrealeadsom",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Karen Lee",
@@ -8067,7 +8423,8 @@
     "TelParliamentary": "0207 219 3569",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Phillip Lee",
@@ -8090,7 +8447,8 @@
     "Website": "http://www.phillip-lee.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jeremy Lefroy",
@@ -8113,7 +8471,8 @@
     "Twitter": "@jeremylefroy",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Edward Leigh",
@@ -8136,7 +8495,8 @@
     "TelParliamentary": "020 7219 6480",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Chris Leslie",
@@ -8159,7 +8519,8 @@
     "Twitter": "@ChrisLeslieMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Oliver Letwin",
@@ -8182,7 +8543,8 @@
     "TelConstituency": "01308 488055",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Emma Lewell-Buck",
@@ -8206,7 +8568,8 @@
     "Website": "http://www.emma-lewell-buck.net/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Lewer",
@@ -8227,7 +8590,8 @@
     "Website": "https://www.andrewlewer.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Brandon Lewis",
@@ -8251,7 +8615,8 @@
     "Website": "http://www.brandonlewis.co/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Clive Lewis",
@@ -8275,7 +8640,8 @@
     "Website": "http://www.clivelewis.org/",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Ivan Lewis",
@@ -8298,7 +8664,8 @@
     "TelConstituency": "0161 773 5500",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Julian Lewis",
@@ -8318,7 +8685,8 @@
     "Website": "http://www.julianlewis.net",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Ian Liddell-Grainger",
@@ -8340,7 +8708,8 @@
     "TelParliamentary": "020 7219 8149",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr David Lidington",
@@ -8364,7 +8733,8 @@
     "Twitter": "@DLidington",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Linden",
@@ -8388,7 +8758,8 @@
     "Website": "http://www.davidlinden.scot/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Emma Little Pengelly",
@@ -8409,7 +8780,8 @@
     "Twitter": "@little_pengelly",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Lloyd",
@@ -8433,7 +8805,8 @@
     "TelParliamentary": "020 7219 1298",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tony Lloyd",
@@ -8455,7 +8828,8 @@
     "TelConstituency": "01706 356542",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rebecca Long Bailey",
@@ -8479,7 +8853,8 @@
     "TelConstituency": "0161 425 3738",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Julia Lopez",
@@ -8499,7 +8874,8 @@
     "Twitter": "@JuliaLopezMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jack Lopresti",
@@ -8522,7 +8898,8 @@
     "Twitter": "@JackLopresti",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Jonathan Lord",
@@ -8544,7 +8921,8 @@
     "TelParliamentary": "020 7219 6913",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tim Loughton",
@@ -8567,7 +8945,8 @@
     "Twitter": "@timloughton",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Caroline Lucas",
@@ -8590,7 +8969,8 @@
     "Twitter": "@CarolineLucas",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ian C. Lucas",
@@ -8613,7 +8993,8 @@
     "Twitter": "@IanCLucas",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Holly Lynch",
@@ -8637,7 +9018,8 @@
     "Website": "http://www.hollylynch.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Steve McCabe",
@@ -8660,7 +9042,8 @@
     "TelConstituency": "0121 443 3878",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Elisha McCallion",
@@ -8681,7 +9064,8 @@
     "TelConstituency": "028 7116 1606",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kerry McCarthy",
@@ -8704,7 +9088,8 @@
     "Twitter": "@KerryMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Siobhain McDonagh",
@@ -8727,7 +9112,8 @@
     "Twitter": "@Siobhain_MP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andy McDonald",
@@ -8751,7 +9137,8 @@
     "Website": "http://www.andymcdonaldmp.org",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stewart Malcolm McDonald",
@@ -8775,7 +9162,8 @@
     "TelParliamentary": "020 7219 6388",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Stuart C. McDonald",
@@ -8799,7 +9187,8 @@
     "TelParliamentary": "020 7219 7758",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "John McDonnell",
@@ -8823,7 +9212,8 @@
     "Website": "http://www.john-mcdonnell.net",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Pat McFadden",
@@ -8846,7 +9236,8 @@
     "Twitter": "@patmcfaddenmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Conor McGinn",
@@ -8869,7 +9260,8 @@
     "Website": "http://www.conormcginn.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alison McGovern",
@@ -8892,7 +9284,8 @@
     "TelConstituency": "0151 645 6590",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Liz McInnes",
@@ -8916,7 +9309,8 @@
     "TelConstituency": "01706 361135",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Craig Mackinlay",
@@ -8937,7 +9331,8 @@
     "TelParliamentary": "020 7219 4442",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Catherine McKinnell",
@@ -8960,7 +9355,8 @@
     "TelConstituency": "0191 229 0352",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rachel Maclean",
@@ -8981,7 +9377,8 @@
     "Website": "https://www.rachelmaclean.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Patrick McLoughlin",
@@ -8998,7 +9395,8 @@
     "FrontBench": false,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jim McMahon",
@@ -9022,7 +9420,8 @@
     "Website": "http://www.jimmcmahon.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Anna McMorrin",
@@ -9045,7 +9444,8 @@
     "Twitter": "@annamcmorrin",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John McNally",
@@ -9069,7 +9469,8 @@
     "TelConstituency": "01324 628 001",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Angus Brendan MacNeil",
@@ -9091,7 +9492,8 @@
     "Twitter": "@angusmacneilsnp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen McPartland",
@@ -9114,7 +9516,8 @@
     "Twitter": "@SMcPartlandMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Esther McVey",
@@ -9131,7 +9534,8 @@
     "FrontBench": false,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Justin Madders",
@@ -9155,7 +9559,8 @@
     "Website": "http://www.justinmadders.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Khalid Mahmood",
@@ -9178,7 +9583,8 @@
     "TelParliamentary": "020 7219 8141",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Shabana Mahmood",
@@ -9201,7 +9607,8 @@
     "Website": "http://www.shabanamahmood.org",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Anne Main",
@@ -9223,7 +9630,8 @@
     "Website": "http://www.annemain.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alan Mak",
@@ -9244,7 +9652,8 @@
     "Website": "http://www.alanmak.org.uk/",
     "Ethnicity": "British Chinese",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Seema Malhotra",
@@ -9267,7 +9676,8 @@
     "Twitter": "@SeemaMalhotra1",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kit Malthouse",
@@ -9289,7 +9699,8 @@
     "TelParliamentary": "020 7219 5605",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Mann",
@@ -9312,7 +9723,8 @@
     "Twitter": "@JohnMannMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Scott Mann",
@@ -9333,7 +9745,8 @@
     "Website": "http://www.scottmann.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gordon Marsden",
@@ -9357,7 +9770,8 @@
     "Twitter": "@GordonMarsden",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Sandy Martin",
@@ -9380,7 +9794,8 @@
     "Website": "http://sandyofipswich.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Rachael Maskell",
@@ -9402,7 +9817,8 @@
     "TelParliamentary": "020 7219 4525",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Maskey",
@@ -9425,7 +9841,8 @@
     "Website": "http://www.sinnfein.ie/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Masterton",
@@ -9448,7 +9865,8 @@
     "Website": "https://www.paulmasterton.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Christian Matheson",
@@ -9470,7 +9888,8 @@
     "Website": "http://www.chrismatheson.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Theresa May",
@@ -9492,7 +9911,8 @@
     "Twitter": "@theresa_may",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Maynard",
@@ -9516,7 +9936,8 @@
     "Twitter": "@PaulMaynardMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ian Mearns",
@@ -9539,7 +9960,8 @@
     "Website": "http://www.ianmearns.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Menzies",
@@ -9561,7 +9983,8 @@
     "Website": "http://www.markmenzies.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Johnny Mercer",
@@ -9584,7 +10007,8 @@
     "TelParliamentary": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Huw Merriman",
@@ -9607,7 +10031,8 @@
     "TelConstituency": "01424 736861",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Metcalfe",
@@ -9630,7 +10055,8 @@
     "TelParliamentary": "020 7219 7009",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Edward Miliband",
@@ -9652,7 +10078,8 @@
     "TelConstituency": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Maria Miller",
@@ -9675,7 +10102,8 @@
     "Website": "http://www.maria4basingstoke.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Amanda Milling",
@@ -9699,7 +10127,8 @@
     "TelConstituency": "01543 877142",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nigel Mills",
@@ -9722,7 +10151,8 @@
     "Website": "http://www.nigelmillsmp.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Anne Milton",
@@ -9746,7 +10176,8 @@
     "TelConstituency": "01483 300330",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Andrew Mitchell",
@@ -9768,7 +10199,8 @@
     "Website": "http://www.andrew-mitchell-mp.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Francie Molloy",
@@ -9791,7 +10223,8 @@
     "Website": "http://www.franciemolloy.ie/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Carol Monaghan",
@@ -9815,7 +10248,8 @@
     "TelParliamentary": "020 7219 6396",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Madeleine Moon",
@@ -9838,7 +10272,8 @@
     "Website": "http://www.madeleinemoonmp.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Damien Moore",
@@ -9861,7 +10296,8 @@
     "Website": "http://www.damienmooremp.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Layla Moran",
@@ -9883,7 +10319,8 @@
     "TelParliamentary": "0207 219 3905",
     "Ethnicity": "British Arab",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Penny Mordaunt",
@@ -9907,7 +10344,8 @@
     "TelParliamentary": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jessica Morden",
@@ -9931,7 +10369,8 @@
     "Twitter": "@jessicamordenmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nicky Morgan",
@@ -9954,7 +10393,8 @@
     "Twitter": "@NickyMorgan01",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Morgan",
@@ -9977,7 +10417,8 @@
     "TelParliamentary": "0207 219 3906",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Anne Marie Morris",
@@ -10000,7 +10441,8 @@
     "Website": "http://www.annemariemorris.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Morris",
@@ -10023,7 +10465,8 @@
     "Twitter": "@Davidmpmorris",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Grahame Morris",
@@ -10046,7 +10489,8 @@
     "Website": "http://grahamemorrismp.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "James Morris",
@@ -10069,7 +10513,8 @@
     "TelConstituency": "0121 550 6777",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Wendy Morton",
@@ -10091,7 +10536,8 @@
     "TelParliamentary": "020 7219 8784",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Mundell",
@@ -10115,7 +10561,8 @@
     "Twitter": "@davidmundelldct",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Ian Murray",
@@ -10138,7 +10585,8 @@
     "TelParliamentary": "020 7219 7064",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Sheryll Murray",
@@ -10161,7 +10609,8 @@
     "Twitter": "@sheryllmurray",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Andrew Murrison",
@@ -10182,7 +10631,8 @@
     "Twitter": "@murrisonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lisa Nandy",
@@ -10205,7 +10655,8 @@
     "Twitter": "@lisanandy",
     "Ethnicity": "Anglo-Indian",
     "EthnicityIndex": 2,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Robert Neill",
@@ -10228,7 +10679,8 @@
     "TelConstituency": "020 8295 2639",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gavin Newlands",
@@ -10252,7 +10704,8 @@
     "TelConstituency": "0141 378 0600",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sarah Newton",
@@ -10276,7 +10729,8 @@
     "Twitter": "@SarahNewtonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Caroline Nokes",
@@ -10300,7 +10754,8 @@
     "Twitter": "@carolinenokes",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jesse Norman",
@@ -10324,7 +10779,8 @@
     "Twitter": "@Jesse_Norman",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alex Norris",
@@ -10346,7 +10802,8 @@
     "TelParliamentary": "0207 219 3899",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Neil O'Brien",
@@ -10367,7 +10824,8 @@
     "Twitter": "@NeilDotObrien",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Matthew Offord",
@@ -10390,7 +10848,8 @@
     "Twitter": "@Offord4Hendon",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Brendan O'Hara",
@@ -10412,7 +10871,8 @@
     "Website": "http://www.snp.org/brendan_o_hara",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jared O'Mara",
@@ -10432,7 +10892,8 @@
     "Website": "https://www.jaredomara.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Fiona Onasanya",
@@ -10453,7 +10914,8 @@
     "Post": "Opposition Whip (Commons)",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Melanie Onn",
@@ -10477,7 +10939,8 @@
     "Twitter": "@onnmel",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chi Onwurah",
@@ -10501,7 +10964,8 @@
     "Twitter": "@ChiOnwurah",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Guy Opperman",
@@ -10525,7 +10989,8 @@
     "TelConstituency": "01434 239 205",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kate Osamor",
@@ -10546,7 +11011,8 @@
     "TelParliamentary": "020 7219 6602",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Albert Owen",
@@ -10569,7 +11035,8 @@
     "TelConstituency": "01407 765750",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ian Paisley",
@@ -10593,7 +11060,8 @@
     "TelParliamentary": "020 7219 7116",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Neil Parish",
@@ -10616,7 +11084,8 @@
     "Website": "http://www.neilparish.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Priti Patel",
@@ -10637,7 +11106,8 @@
     "Website": "http://www.priti4witham.com",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Owen Paterson",
@@ -10660,7 +11130,8 @@
     "Twitter": "@Owen_PatersonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Pawsey",
@@ -10683,7 +11154,8 @@
     "Twitter": "@MarkPawsey",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephanie Peacock",
@@ -10707,7 +11179,8 @@
     "TelParliamentary": "0207 219 4129",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Teresa Pearce",
@@ -10730,7 +11203,8 @@
     "Website": "http://www.teresapearce.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Mike Penning",
@@ -10752,7 +11226,8 @@
     "Website": "http://www.mikepenning.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Matthew Pennycook",
@@ -10774,7 +11249,8 @@
     "Website": "http://www.matthewpennycook.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Penrose",
@@ -10798,7 +11274,8 @@
     "Twitter": "@JohnPenroseNews",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Percy",
@@ -10820,7 +11297,8 @@
     "Website": "http://www.andrewpercy.org",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Toby Perkins",
@@ -10843,7 +11321,8 @@
     "TelParliamentary": "020 7219 2320",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Claire Perry",
@@ -10866,7 +11345,8 @@
     "Website": "http://www.claireperry.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jess Phillips",
@@ -10889,7 +11369,8 @@
     "TelParliamentary": "020 7219 8703",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bridget Phillipson",
@@ -10912,7 +11393,8 @@
     "TelParliamentary": "020 7219 7087",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Philp",
@@ -10933,7 +11415,8 @@
     "TelParliamentary": "020 7219 8026",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Laura Pidcock",
@@ -10959,7 +11442,8 @@
     "TelConstituency": "01207 501782",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Christopher Pincher",
@@ -10983,7 +11467,8 @@
     "Twitter": "@ChrisPincher",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Jo Platt",
@@ -11006,7 +11491,8 @@
     "TelConstituency": "01942 410231",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Luke Pollard",
@@ -11029,7 +11515,8 @@
     "Website": "http://www.lukepollard.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Dr Dan Poulter",
@@ -11052,7 +11539,8 @@
     "Twitter": "@drdanpoulter",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Pound",
@@ -11073,7 +11561,8 @@
     "TelParliamentary": "020 7219 4312",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rebecca Pow",
@@ -11094,7 +11583,8 @@
     "Website": "http://www.rebeccapow.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lucy Powell",
@@ -11117,7 +11607,8 @@
     "Website": "http://lucypowell.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Victoria Prentis",
@@ -11138,7 +11629,8 @@
     "TelParliamentary": "020 7219 8756",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Mark Prisk",
@@ -11161,7 +11653,8 @@
     "Website": "http://www.markprisk.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Pritchard",
@@ -11184,7 +11677,8 @@
     "Twitter": "@MPritchardMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tom Pursglove",
@@ -11205,7 +11699,8 @@
     "Website": "http://www.votepursglove.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jeremy Quin",
@@ -11226,7 +11721,8 @@
     "TelParliamentary": "020 7219 6341",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Will Quince",
@@ -11247,7 +11743,8 @@
     "TelParliamentary": "020 7219 8049",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Yasmin Qureshi",
@@ -11271,7 +11768,8 @@
     "Twitter": "@YasminQureshiMP",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dominic Raab",
@@ -11293,7 +11791,8 @@
     "Website": "http://www.dominicraab.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Faisal Rashid",
@@ -11316,7 +11815,8 @@
     "TelParliamentary": "0207 219 2775",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Angela Rayner",
@@ -11338,7 +11838,8 @@
     "TelParliamentary": "020 7219 8782",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Redwood",
@@ -11361,7 +11862,8 @@
     "TelParliamentary": "020 7219 4205",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Steve Reed",
@@ -11385,7 +11887,8 @@
     "TelConstituency": "020 8665 1214",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Christina Rees",
@@ -11407,7 +11910,8 @@
     "TelParliamentary": "020 7219 5783",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Jacob Rees-Mogg",
@@ -11429,7 +11933,8 @@
     "Website": "http://www.northeastsomersetconservatives.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ellie Reeves",
@@ -11451,7 +11956,8 @@
     "TelConstituency": "020 7219 2668",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rachel Reeves",
@@ -11474,7 +11980,8 @@
     "Twitter": "@RachelReevesMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Emma Reynolds",
@@ -11497,7 +12004,8 @@
     "Twitter": "@EmmaReynoldsMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jonathan Reynolds",
@@ -11521,7 +12029,8 @@
     "Twitter": "@jreynoldsMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ms Marie Rimmer",
@@ -11544,7 +12053,8 @@
     "TelParliamentary": "020 7219 4847",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Laurence Robertson",
@@ -11566,7 +12076,8 @@
     "Website": "https://www.laurencerobertson.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gavin Robinson",
@@ -11587,7 +12098,8 @@
     "TelParliamentary": "020 7219 8746",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Geoffrey Robinson",
@@ -11608,7 +12120,8 @@
     "TelConstituency": "024 7625 7870",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mary Robinson",
@@ -11629,7 +12142,8 @@
     "Website": "http://www.mary-robinson.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Matt Rodda",
@@ -11651,7 +12165,8 @@
     "TelConstituency": "0118 206 2966",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Rosindell",
@@ -11674,7 +12189,8 @@
     "TelParliamentary": "020 7219 8475",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Douglas Ross",
@@ -11696,7 +12212,8 @@
     "Twitter": "@Douglas4Moray",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Danielle Rowley",
@@ -11722,7 +12239,8 @@
     "Website": "https://www.daniellerowleymp.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lee Rowley",
@@ -11744,7 +12262,8 @@
     "TelConstituency": 1246439222,
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Chris Ruane",
@@ -11762,7 +12281,8 @@
     "Post": "Shadow Minister (Wales)",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Amber Rudd",
@@ -11786,7 +12306,8 @@
     "TelParliamentary": "020 7219 7229",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Lloyd Russell-Moyle",
@@ -11809,7 +12330,8 @@
     "TelConstituency": "01273 550121",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "David Rutley",
@@ -11833,7 +12355,8 @@
     "Twitter": "@DavidRutleyMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Joan Ryan",
@@ -11856,7 +12379,8 @@
     "TelParliamentary": "020 7219 2442",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Antoinette Sandbach",
@@ -11880,7 +12404,8 @@
     "Website": "http://www.antoinettesandbach.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Liz Saville Roberts",
@@ -11904,7 +12429,8 @@
     "TelParliamentary": "020 7219 6876",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paul Scully",
@@ -11925,7 +12451,8 @@
     "Website": "http://www.scully.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Bob Seely",
@@ -11951,7 +12478,8 @@
     "Website": "https://www.bobseely.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Selous",
@@ -11974,7 +12502,8 @@
     "TelParliamentary": "020 7219 8134",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Naz Shah",
@@ -11997,7 +12526,8 @@
     "TelParliamentary": "020 7219 8603",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jim Shannon",
@@ -12021,7 +12551,8 @@
     "TelParliamentary": "020 7219 7160",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Grant Shapps",
@@ -12044,7 +12575,8 @@
     "Twitter": "@grantshapps",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alok Sharma",
@@ -12068,7 +12600,8 @@
     "Website": "http://www.aloksharma.co.uk",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Virendra Sharma",
@@ -12091,7 +12624,8 @@
     "Website": "http://www.virendrasharma.com",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Barry Sheerman",
@@ -12114,7 +12648,8 @@
     "Website": "http://www.barrysheerman.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alec Shelbrooke",
@@ -12137,7 +12672,8 @@
     "TelConstituency": "01937 589 002",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tommy Sheppard",
@@ -12161,7 +12697,8 @@
     "TelParliamentary": "020 7219 6653",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Paula Sherriff",
@@ -12182,7 +12719,8 @@
     "Twitter": "@paulasherriff",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Gavin Shuker",
@@ -12205,7 +12743,8 @@
     "Twitter": "@gavinshuker",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tulip Siddiq",
@@ -12226,7 +12765,8 @@
     "TelParliamentary": "020 7219 6276",
     "Ethnicity": "British Bangladeshi",
     "EthnicityIndex": 3,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Simpson",
@@ -12248,7 +12788,8 @@
     "TelConstituency": "028 3833 2234",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Keith Simpson",
@@ -12270,7 +12811,8 @@
     "TelParliamentary": "020 7219 4053",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Skidmore",
@@ -12294,7 +12836,8 @@
     "Twitter": "@cskidmoremp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Dennis Skinner",
@@ -12315,7 +12858,8 @@
     "TelParliamentary": "020 7219 5107",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andy Slaughter",
@@ -12338,7 +12882,8 @@
     "Twitter": "@hammersmithandy",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ruth Smeeth",
@@ -12361,7 +12906,8 @@
     "Website": "http://www.ruthsmeeth.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Angela Smith",
@@ -12384,7 +12930,8 @@
     "TelParliamentary": "020 7219 6713",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Cat Smith",
@@ -12408,7 +12955,8 @@
     "Website": "http://www.catsmith.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Chloe Smith",
@@ -12432,7 +12980,8 @@
     "Website": "http://www.chloesmith.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Eleanor Smith",
@@ -12454,7 +13003,8 @@
     "Twitter": "@Eleanor_SmithMP",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Henry Smith",
@@ -12477,7 +13027,8 @@
     "Twitter": "@HenrySmithUK",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jeff Smith",
@@ -12501,7 +13052,8 @@
     "TelConstituency": "0161 445 0678",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Julian Smith",
@@ -12525,7 +13077,8 @@
     "Website": "http://www.juliansmith.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Laura Smith",
@@ -12551,7 +13104,8 @@
     "Twitter": "@laurasmithmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nick Smith",
@@ -12575,7 +13129,8 @@
     "Twitter": "@BlaenauGwentMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Owen Smith",
@@ -12598,7 +13153,8 @@
     "Twitter": "@owensmith_mp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Royston Smith",
@@ -12621,7 +13177,8 @@
     "TelConstituency": "02380 473309",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Karin Smyth",
@@ -12644,7 +13201,8 @@
     "Website": "http://karinsmyth.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gareth Snell",
@@ -12668,7 +13226,8 @@
     "TelConstituency": "01782 272897",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Nicholas Soames",
@@ -12691,7 +13250,8 @@
     "Website": "http://www.nicholassoames.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alex Sobel",
@@ -12713,7 +13273,8 @@
     "TelParliamentary": "0207 219 8295",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Anna Soubry",
@@ -12736,7 +13297,8 @@
     "TelParliamentary": "020 7219 7211",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Spellar",
@@ -12759,7 +13321,8 @@
     "Twitter": "@spellar",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dame Caroline Spelman",
@@ -12783,7 +13346,8 @@
     "Twitter": "@spelmanc",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Spencer",
@@ -12807,7 +13371,8 @@
     "Twitter": "@Mark_Spencer",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Keir Starmer",
@@ -12829,7 +13394,8 @@
     "Website": "http://www.keirstarmer.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Stephens",
@@ -12853,7 +13419,8 @@
     "TelParliamentary": "020 7219 6381",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Andrew Stephenson",
@@ -12876,7 +13443,8 @@
     "Twitter": "@Andrew4Pendle",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Jo Stevens",
@@ -12899,7 +13467,8 @@
     "TelParliamentary": "020 7219 8290",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Stevenson",
@@ -12922,7 +13491,8 @@
     "Website": "http://www.johnstevensonmp.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bob Stewart",
@@ -12942,7 +13512,8 @@
     "TelParliamentary": "020 7219 7011",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Iain Stewart",
@@ -12966,7 +13537,8 @@
     "Twitter": "@iainastewart",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Rory Stewart",
@@ -12990,7 +13562,8 @@
     "Twitter": "@RoryStewartUK",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jamie Stone",
@@ -13012,7 +13585,8 @@
     "TelParliamentary": "0207 219 1654",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Gary Streeter",
@@ -13034,7 +13608,8 @@
     "Website": "http://www.garystreeter.co.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Wes Streeting",
@@ -13057,7 +13632,8 @@
     "TelConstituency": "0203 475 7901",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Mel Stride",
@@ -13081,7 +13657,8 @@
     "Website": "http://melstridemp.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Graham Stringer",
@@ -13102,7 +13679,8 @@
     "TelParliamentary": "020 7219 5235",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Graham Stuart",
@@ -13126,7 +13704,8 @@
     "Website": "http://www.grahamstuart.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Julian Sturdy",
@@ -13148,7 +13727,8 @@
     "TelParliamentary": "020 7219 7199",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Rishi Sunak",
@@ -13171,7 +13751,8 @@
     "TelParliamentary": "020 7219 5437",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Desmond Swayne",
@@ -13194,7 +13775,8 @@
     "Twitter": "@DesmondSwayne",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Paul Sweeney",
@@ -13221,7 +13803,8 @@
     "Website": "https://www.paulsweeney.mp/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jo Swinson",
@@ -13245,7 +13828,8 @@
     "Website": "http://www.joswinson.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Hugo Swire",
@@ -13266,7 +13850,8 @@
     "Twitter": "@HugoSwire",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sir Robert Syms",
@@ -13288,7 +13873,8 @@
     "TelConstituency": "01202 739922",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mark Tami",
@@ -13312,7 +13898,8 @@
     "Twitter": "@MarkTamiMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Alison Thewliss",
@@ -13336,7 +13923,8 @@
     "Website": "http://www.alisonthewliss.scot/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Derek Thomas",
@@ -13357,7 +13945,8 @@
     "Website": "http://derekthomas.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gareth Thomas",
@@ -13380,7 +13969,8 @@
     "Website": "http://www.gareththomas.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nick Thomas-Symonds",
@@ -13401,7 +13991,8 @@
     "TelParliamentary": "020 7219 4294",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Ross Thomson",
@@ -13423,7 +14014,8 @@
     "Twitter": "@RossThomson_MP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Emily Thornberry",
@@ -13447,7 +14039,8 @@
     "TelParliamentary": "020 7219 5676",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Maggie Throup",
@@ -13468,7 +14061,8 @@
     "TelParliamentary": "020 7219 6571",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Timms",
@@ -13491,7 +14085,8 @@
     "Twitter": "@stephenctimms",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Kelly Tolhurst",
@@ -13515,7 +14110,8 @@
     "Website": "http://www.kelly4rochesterandstrood.com/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Justin Tomlinson",
@@ -13539,7 +14135,8 @@
     "Twitter": "@JTomlinsonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Michael Tomlinson",
@@ -13560,7 +14157,8 @@
     "TelParliamentary": "020 7219 5844",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Craig Tracey",
@@ -13583,7 +14181,8 @@
     "TelParliamentary": "020 7219 5646",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Tredinnick",
@@ -13605,7 +14204,8 @@
     "Website": "https://www.bosworthconservatives.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Anne-Marie Trevelyan",
@@ -13626,7 +14226,8 @@
     "TelParliamentary": "020 7219 4437",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Jon Trickett",
@@ -13650,7 +14251,8 @@
     "Website": "http://www.jontrickett.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Elizabeth Truss",
@@ -13674,7 +14276,8 @@
     "Twitter": "@trussliz",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tom Tugendhat",
@@ -13695,7 +14298,8 @@
     "Website": "http://www.tomtugendhat.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Anna Turley",
@@ -13716,7 +14320,8 @@
     "TelParliamentary": "020 7219 5441",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Karl Turner",
@@ -13740,7 +14345,8 @@
     "Website": "http://www.karlturnermp.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Derek Twigg",
@@ -13763,7 +14369,8 @@
     "Website": "http://www.derektwigg.org",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Stephen Twigg",
@@ -13786,7 +14393,8 @@
     "Twitter": "@StephenTwigg",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Liz Twist",
@@ -13811,7 +14419,8 @@
     "Website": "www.liztwist.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chuka Umunna",
@@ -13834,7 +14443,8 @@
     "TelConstituency": "020 8835 7062",
     "Ethnicity": "Black British",
     "EthnicityIndex": 17,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Edward Vaizey",
@@ -13857,7 +14467,8 @@
     "Twitter": "@edvaizey",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Shailesh Vara",
@@ -13879,7 +14490,8 @@
     "TelParliamentary": "020 7219 6050",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Keith Vaz",
@@ -13902,7 +14514,8 @@
     "Website": "http://www.keithvazmp.com/",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Valerie Vaz",
@@ -13926,7 +14539,8 @@
     "Website": "http://www.valerievazmp.co.uk",
     "Ethnicity": "British Indian",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Martin Vickers",
@@ -13949,7 +14563,8 @@
     "Twitter": "@martinvickers",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Theresa Villiers",
@@ -13971,7 +14586,8 @@
     "TelParliamentary": "",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Charles Walker",
@@ -13993,7 +14609,8 @@
     "TelParliamentary": "020 7219 0338",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Robin Walker",
@@ -14017,7 +14634,8 @@
     "Twitter": "@walkerworcester",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Thelma Walker",
@@ -14039,7 +14657,8 @@
     "Twitter": "@Thelma_WalkerMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr Ben Wallace",
@@ -14063,7 +14682,8 @@
     "Website": "http://www.benwallace.org.uk/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "David Warburton",
@@ -14084,7 +14704,8 @@
     "Website": "http://davidwarburton.org/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Matt Warman",
@@ -14107,7 +14728,8 @@
     "TelConstituency": "01205 809 110",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Giles Watling",
@@ -14127,7 +14749,8 @@
     "Twitter": "@GilesWatling",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Tom Watson",
@@ -14151,7 +14774,8 @@
     "TelConstituency": "0121 569 1904",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Catherine West",
@@ -14172,7 +14796,8 @@
     "TelParliamentary": "020 7219 6141",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Matt Western",
@@ -14198,7 +14823,8 @@
     "TelParliamentary": "0207 219 2051",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Helen Whately",
@@ -14219,7 +14845,8 @@
     "TelParliamentary": "020 7219 6472",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mrs Heather Wheeler",
@@ -14243,7 +14870,8 @@
     "Website": "http://www.heatherwheeler.org.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Alan Whitehead",
@@ -14267,7 +14895,8 @@
     "TelConstituency": "023 8068 2086",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Martin Whitfield",
@@ -14292,7 +14921,8 @@
     "TelConstituency": "01875 824779",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Philippa Whitford",
@@ -14316,7 +14946,8 @@
     "Website": "http://whitford.scot/",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Craig Whittaker",
@@ -14340,7 +14971,8 @@
     "Twitter": "@CWhittakerMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr John Whittingdale",
@@ -14363,7 +14995,8 @@
     "Twitter": "@jwhittingdale",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Bill Wiggin",
@@ -14385,7 +15018,8 @@
     "Website": "http://www.billwiggin.com",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Hywel Williams",
@@ -14408,7 +15042,8 @@
     "TelConstituency": "012 4837 2948",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Paul Williams",
@@ -14430,7 +15065,8 @@
     "Twitter": "@paulwilliamsmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Chris Williamson",
@@ -14452,7 +15088,8 @@
     "TelConstituency": "01332 343261",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Gavin Williamson",
@@ -14476,7 +15113,8 @@
     "Website": "http://www.gavinwilliamson.org",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Phil Wilson",
@@ -14499,7 +15137,8 @@
     "Twitter": "@PhilWilsonMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Sammy Wilson",
@@ -14523,7 +15162,8 @@
     "Twitter": "@eastantrimmp",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dame Rosie Winterton",
@@ -14545,7 +15185,8 @@
     "Website": "http://www.rosiewinterton.co.uk",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Pete Wishart",
@@ -14569,7 +15210,8 @@
     "Twitter": "@PeteWishart",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Dr Sarah Wollaston",
@@ -14592,7 +15234,8 @@
     "Twitter": "@sarahwollaston",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mike Wood",
@@ -14615,7 +15258,8 @@
     "TelParliamentary": "020 7219 6982",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "John Woodcock",
@@ -14638,7 +15282,8 @@
     "Twitter": "@JWoodcockMP",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mr William Wragg",
@@ -14661,7 +15306,8 @@
     "TelParliamentary": "0207 219 6258",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": true
+    "LGBTQIA": true,
+    "Sexuality": "LGBTQIA"
   },
   {
     "DisplayAs": "Jeremy Wright",
@@ -14684,7 +15330,8 @@
     "TelParliamentary": "020 7219 2008",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Mohammad Yasin",
@@ -14705,7 +15352,8 @@
     "TelConstituency": "01234 346525",
     "Ethnicity": "British Pakistani",
     "EthnicityIndex": 11,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Nadhim Zahawi",
@@ -14729,7 +15377,8 @@
     "Twitter": "@nadhimzahawi",
     "Ethnicity": "British Iraqi",
     "EthnicityIndex": 1,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   },
   {
     "DisplayAs": "Daniel Zeichner",
@@ -14750,6 +15399,7 @@
     "TelParliamentary": "020 7219 8462",
     "Ethnicity": "British Caucasion",
     "EthnicityIndex": 599,
-    "LGBT": false
+    "LGBTQIA": false,
+    "Sexuality": "Heterosexual"
   }
 ]
