@@ -1,0 +1,3902 @@
+[
+  {
+    "MemberID": 545,
+    "VoteMajority": 5658,
+    "VoteMajorityPct": 13.03,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4636,
+    "VoteMajority": 2446,
+    "VoteMajorityPct": 4.81,
+    "NearestRival": "Social Democratic and Labour Party"
+  },
+  {
+    "MemberID": 4624,
+    "VoteMajority": 169,
+    "VoteMajorityPct": 0.37,
+    "NearestRival": "Social Democratic and Labour Party"
+  },
+  {
+    "MemberID": 4274,
+    "VoteMajority": 12890,
+    "VoteMajorityPct": 27.61,
+    "NearestRival": "Democratic Unionist Party"
+  },
+  {
+    "MemberID": 1416,
+    "VoteMajority": 875,
+    "VoteMajorityPct": 1.64,
+    "NearestRival": "Ulster Unionist Party"
+  },
+  {
+    "MemberID": 4373,
+    "VoteMajority": 12489,
+    "VoteMajorityPct": 23.31,
+    "NearestRival": "Democratic Unionist Party"
+  },
+  {
+    "MemberID": 4697,
+    "VoteMajority": 7956,
+    "VoteMajorityPct": 22.71,
+    "NearestRival": "Democratic Unionist Party"
+  },
+  {
+    "MemberID": 4245,
+    "VoteMajority": 21652,
+    "VoteMajorityPct": 53.29,
+    "NearestRival": "Democratic Unionist Party"
+  },
+  {
+    "MemberID": 441,
+    "VoteMajority": 5965,
+    "VoteMajorityPct": 11.7,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3917,
+    "VoteMajority": 209,
+    "VoteMajorityPct": 0.44,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 478,
+    "VoteMajority": 25514,
+    "VoteMajorityPct": 58.43,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1564,
+    "VoteMajority": 1322,
+    "VoteMajorityPct": 2.66,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 458,
+    "VoteMajority": 14477,
+    "VoteMajorityPct": 34.85,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 422,
+    "VoteMajority": 19590,
+    "VoteMajorityPct": 49.81,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4128,
+    "VoteMajority": 26285,
+    "VoteMajorityPct": 47.11,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4013,
+    "VoteMajority": 13925,
+    "VoteMajorityPct": 30.18,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4036,
+    "VoteMajority": 29466,
+    "VoteMajorityPct": 67.52,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 184,
+    "VoteMajority": 31647,
+    "VoteMajorityPct": 54.89,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4629,
+    "VoteMajority": 607,
+    "VoteMajorityPct": 1.27,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 2,
+    "VoteMajority": 14364,
+    "VoteMajorityPct": 30.81,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4661,
+    "VoteMajority": 2125,
+    "VoteMajorityPct": 3.73,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 3968,
+    "VoteMajority": 1609,
+    "VoteMajorityPct": 2.8,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 36,
+    "VoteMajority": 18243,
+    "VoteMajorityPct": 35.93,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 467,
+    "VoteMajority": 7512,
+    "VoteMajorityPct": 13.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 390,
+    "VoteMajority": 10131,
+    "VoteMajorityPct": 23.55,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 17,
+    "VoteMajority": 25725,
+    "VoteMajorityPct": 48.83,
+    "NearestRival": "Green Party"
+  },
+  {
+    "MemberID": 1586,
+    "VoteMajority": 22384,
+    "VoteMajorityPct": 41.51,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1522,
+    "VoteMajority": 9347,
+    "VoteMajorityPct": 19.08,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 343,
+    "VoteMajority": 23104,
+    "VoteMajorityPct": 40.13,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4484,
+    "VoteMajority": 15956,
+    "VoteMajorityPct": 34.45,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4439,
+    "VoteMajority": 18631,
+    "VoteMajorityPct": 32.87,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3997,
+    "VoteMajority": 9805,
+    "VoteMajorityPct": 16.47,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4613,
+    "VoteMajority": 24002,
+    "VoteMajorityPct": 45.36,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4481,
+    "VoteMajority": 2569,
+    "VoteMajorityPct": 4.51,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1201,
+    "VoteMajority": 20862,
+    "VoteMajorityPct": 32.49,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4619,
+    "VoteMajority": 5643,
+    "VoteMajorityPct": 10.94,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4014,
+    "VoteMajority": 2876,
+    "VoteMajorityPct": 5.56,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4086,
+    "VoteMajority": 2190,
+    "VoteMajorityPct": 4.08,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4454,
+    "VoteMajority": 8391,
+    "VoteMajorityPct": 17.53,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3983,
+    "VoteMajority": 346,
+    "VoteMajorityPct": 0.63,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4490,
+    "VoteMajority": 2104,
+    "VoteMajorityPct": 4.02,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4117,
+    "VoteMajority": 22840,
+    "VoteMajorityPct": 35.14,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4601,
+    "VoteMajority": 7950,
+    "VoteMajorityPct": 15.4,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4133,
+    "VoteMajority": 13286,
+    "VoteMajorityPct": 24.81,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3936,
+    "VoteMajority": 10047,
+    "VoteMajorityPct": 20.13,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3996,
+    "VoteMajority": 18168,
+    "VoteMajorityPct": 32.02,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4659,
+    "VoteMajority": 1159,
+    "VoteMajorityPct": 2.82,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1211,
+    "VoteMajority": 15339,
+    "VoteMajorityPct": 29.02,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1466,
+    "VoteMajority": 18326,
+    "VoteMajorityPct": 33.47,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3939,
+    "VoteMajority": 12363,
+    "VoteMajorityPct": 27.44,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1447,
+    "VoteMajority": 13778,
+    "VoteMajorityPct": 27.59,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1453,
+    "VoteMajority": 14168,
+    "VoteMajorityPct": 25.47,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4044,
+    "VoteMajority": 1279,
+    "VoteMajorityPct": 2.85,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3938,
+    "VoteMajority": 863,
+    "VoteMajorityPct": 1.55,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1568,
+    "VoteMajority": 6109,
+    "VoteMajorityPct": 10.72,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1523,
+    "VoteMajority": 17040,
+    "VoteMajorityPct": 30.7,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4249,
+    "VoteMajority": 17160,
+    "VoteMajorityPct": 33.23,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4531,
+    "VoteMajority": 11781,
+    "VoteMajorityPct": 27.91,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4506,
+    "VoteMajority": 11942,
+    "VoteMajorityPct": 23.27,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4663,
+    "VoteMajority": 1057,
+    "VoteMajorityPct": 2.11,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1539,
+    "VoteMajority": 12246,
+    "VoteMajorityPct": 23.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 40,
+    "VoteMajority": 14356,
+    "VoteMajorityPct": 28.07,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 288,
+    "VoteMajority": 17495,
+    "VoteMajorityPct": 34.97,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4605,
+    "VoteMajority": 2774,
+    "VoteMajorityPct": 6,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1428,
+    "VoteMajority": 21602,
+    "VoteMajorityPct": 43.05,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4639,
+    "VoteMajority": 12031,
+    "VoteMajorityPct": 20.47,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4005,
+    "VoteMajority": 1757,
+    "VoteMajorityPct": 3.46,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1601,
+    "VoteMajority": 9590,
+    "VoteMajorityPct": 20.55,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4681,
+    "VoteMajority": 21069,
+    "VoteMajorityPct": 28.29,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3919,
+    "VoteMajority": 15087,
+    "VoteMajorityPct": 29.22,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1423,
+    "VoteMajority": 5034,
+    "VoteMajorityPct": 10.78,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4009,
+    "VoteMajority": 7973,
+    "VoteMajorityPct": 18.06,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4008,
+    "VoteMajority": 17211,
+    "VoteMajorityPct": 34.78,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4592,
+    "VoteMajority": 25237,
+    "VoteMajorityPct": 38.36,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4048,
+    "VoteMajority": 18046,
+    "VoteMajorityPct": 36,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 312,
+    "VoteMajority": 19198,
+    "VoteMajorityPct": 35.13,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1493,
+    "VoteMajority": 15792,
+    "VoteMajorityPct": 33.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3971,
+    "VoteMajority": 6437,
+    "VoteMajorityPct": 12.39,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 18,
+    "VoteMajority": 22140,
+    "VoteMajorityPct": 40.07,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1609,
+    "VoteMajority": 507,
+    "VoteMajorityPct": 1.1,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4376,
+    "VoteMajority": 8038,
+    "VoteMajorityPct": 19.45,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1413,
+    "VoteMajority": 20475,
+    "VoteMajorityPct": 34.55,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4398,
+    "VoteMajority": 936,
+    "VoteMajorityPct": 1.83,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3977,
+    "VoteMajority": 21734,
+    "VoteMajorityPct": 39.05,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4503,
+    "VoteMajority": 11406,
+    "VoteMajorityPct": 18.62,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4021,
+    "VoteMajority": 7500,
+    "VoteMajorityPct": 15.39,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 242,
+    "VoteMajority": 25171,
+    "VoteMajorityPct": 49.71,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4075,
+    "VoteMajority": 12347,
+    "VoteMajorityPct": 26.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3974,
+    "VoteMajority": 21136,
+    "VoteMajorityPct": 41.78,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4650,
+    "VoteMajority": 2607,
+    "VoteMajorityPct": 4.86,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 3922,
+    "VoteMajority": 7711,
+    "VoteMajorityPct": 17.33,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4529,
+    "VoteMajority": 6387,
+    "VoteMajorityPct": 12.84,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4509,
+    "VoteMajority": 8510,
+    "VoteMajorityPct": 18.04,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3940,
+    "VoteMajority": 609,
+    "VoteMajorityPct": 1.05,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 104,
+    "VoteMajority": 17614,
+    "VoteMajorityPct": 32.73,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3986,
+    "VoteMajority": 15411,
+    "VoteMajorityPct": 26.18,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 76,
+    "VoteMajority": 17478,
+    "VoteMajorityPct": 29.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3969,
+    "VoteMajority": 25852,
+    "VoteMajorityPct": 46.66,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4669,
+    "VoteMajority": 2914,
+    "VoteMajorityPct": 6.08,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1566,
+    "VoteMajority": 6627,
+    "VoteMajorityPct": 11.39,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3932,
+    "VoteMajority": 17185,
+    "VoteMajorityPct": 30.4,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 44,
+    "VoteMajority": 10000,
+    "VoteMajorityPct": 21.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1545,
+    "VoteMajority": 8206,
+    "VoteMajorityPct": 16.5,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 373,
+    "VoteMajority": 15405,
+    "VoteMajorityPct": 29.95,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4606,
+    "VoteMajority": 3693,
+    "VoteMajorityPct": 8.87,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1198,
+    "VoteMajority": 9073,
+    "VoteMajorityPct": 20.08,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1529,
+    "VoteMajority": 19550,
+    "VoteMajorityPct": 32.23,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1502,
+    "VoteMajority": 3437,
+    "VoteMajorityPct": 8.45,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 15,
+    "VoteMajority": 14656,
+    "VoteMajorityPct": 24.93,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4135,
+    "VoteMajority": 1399,
+    "VoteMajorityPct": 3.06,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1512,
+    "VoteMajority": 9441,
+    "VoteMajorityPct": 19.28,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4033,
+    "VoteMajority": 8608,
+    "VoteMajorityPct": 15.85,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 335,
+    "VoteMajority": 18351,
+    "VoteMajorityPct": 32.67,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4526,
+    "VoteMajority": 22906,
+    "VoteMajorityPct": 35.85,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4532,
+    "VoteMajority": 312,
+    "VoteMajorityPct": 0.61,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 55,
+    "VoteMajority": 23431,
+    "VoteMajorityPct": 47.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 16,
+    "VoteMajority": 24543,
+    "VoteMajorityPct": 43.8,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4007,
+    "VoteMajority": 23298,
+    "VoteMajorityPct": 38.93,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4627,
+    "VoteMajority": 4159,
+    "VoteMajorityPct": 8.74,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1580,
+    "VoteMajority": 17380,
+    "VoteMajorityPct": 27.33,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4635,
+    "VoteMajority": 2601,
+    "VoteMajorityPct": 6.82,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4362,
+    "VoteMajority": 16341,
+    "VoteMajorityPct": 29.62,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 345,
+    "VoteMajority": 17023,
+    "VoteMajorityPct": 33.1,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4097,
+    "VoteMajority": 18312,
+    "VoteMajorityPct": 34.94,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4084,
+    "VoteMajority": 14787,
+    "VoteMajorityPct": 30.11,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3958,
+    "VoteMajority": 12619,
+    "VoteMajorityPct": 22.44,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3970,
+    "VoteMajority": 13186,
+    "VoteMajorityPct": 24.32,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 234,
+    "VoteMajority": 15816,
+    "VoteMajorityPct": 29.92,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4108,
+    "VoteMajority": 22733,
+    "VoteMajorityPct": 44.48,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 249,
+    "VoteMajority": 25499,
+    "VoteMajorityPct": 42.71,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1508,
+    "VoteMajority": 20686,
+    "VoteMajorityPct": 34.78,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3934,
+    "VoteMajority": 1577,
+    "VoteMajorityPct": 3.25,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4020,
+    "VoteMajority": 16086,
+    "VoteMajorityPct": 28.9,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4016,
+    "VoteMajority": 25692,
+    "VoteMajorityPct": 47.41,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4677,
+    "VoteMajority": 15828,
+    "VoteMajorityPct": 35.85,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4680,
+    "VoteMajority": 22621,
+    "VoteMajorityPct": 37.75,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4041,
+    "VoteMajority": 9285,
+    "VoteMajorityPct": 26.61,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4050,
+    "VoteMajority": 15211,
+    "VoteMajorityPct": 29.6,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 435,
+    "VoteMajority": 6426,
+    "VoteMajorityPct": 12.17,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1482,
+    "VoteMajority": 14042,
+    "VoteMajorityPct": 25.24,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1582,
+    "VoteMajority": 7369,
+    "VoteMajorityPct": 14.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1578,
+    "VoteMajority": 16465,
+    "VoteMajorityPct": 30.37,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1526,
+    "VoteMajority": 8188,
+    "VoteMajorityPct": 19.44,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1200,
+    "VoteMajority": 15006,
+    "VoteMajorityPct": 27.81,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3910,
+    "VoteMajority": 635,
+    "VoteMajorityPct": 1.98,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4142,
+    "VoteMajority": 9236,
+    "VoteMajorityPct": 19.98,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4107,
+    "VoteMajority": 21328,
+    "VoteMajorityPct": 37.77,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4053,
+    "VoteMajority": 11970,
+    "VoteMajorityPct": 22.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4516,
+    "VoteMajority": 15952,
+    "VoteMajorityPct": 24.57,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4018,
+    "VoteMajority": 17723,
+    "VoteMajorityPct": 34.27,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4527,
+    "VoteMajority": 17413,
+    "VoteMajorityPct": 35,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1441,
+    "VoteMajority": 13788,
+    "VoteMajorityPct": 28.25,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3960,
+    "VoteMajority": 2457,
+    "VoteMajorityPct": 4.89,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1408,
+    "VoteMajority": 8036,
+    "VoteMajorityPct": 13.31,
+    "NearestRival": "Independent"
+  },
+  {
+    "MemberID": 4442,
+    "VoteMajority": 22165,
+    "VoteMajorityPct": 37.27,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 152,
+    "VoteMajority": 2438,
+    "VoteMajorityPct": 5.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4015,
+    "VoteMajority": 1665,
+    "VoteMajorityPct": 2.58,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1396,
+    "VoteMajority": 15448,
+    "VoteMajorityPct": 26.51,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4643,
+    "VoteMajority": 663,
+    "VoteMajorityPct": 1.59,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3989,
+    "VoteMajority": 4190,
+    "VoteMajorityPct": 8.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4065,
+    "VoteMajority": 345,
+    "VoteMajorityPct": 0.69,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4099,
+    "VoteMajority": 10235,
+    "VoteMajorityPct": 18.94,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4060,
+    "VoteMajority": 3216,
+    "VoteMajorityPct": 6.41,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1530,
+    "VoteMajority": 15466,
+    "VoteMajorityPct": 32.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4519,
+    "VoteMajority": 17749,
+    "VoteMajorityPct": 32.73,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4366,
+    "VoteMajority": 18422,
+    "VoteMajorityPct": 35.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1559,
+    "VoteMajority": 5548,
+    "VoteMajorityPct": 11.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 261,
+    "VoteMajority": 22877,
+    "VoteMajorityPct": 42.6,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4528,
+    "VoteMajority": 7582,
+    "VoteMajorityPct": 12.46,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 3992,
+    "VoteMajority": 5253,
+    "VoteMajorityPct": 11.84,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1572,
+    "VoteMajority": 21590,
+    "VoteMajorityPct": 35.73,
+    "NearestRival": "National Health Action Party"
+  },
+  {
+    "MemberID": 4109,
+    "VoteMajority": 7729,
+    "VoteMajorityPct": 14.89,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4507,
+    "VoteMajority": 23484,
+    "VoteMajorityPct": 37.89,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1560,
+    "VoteMajority": 18076,
+    "VoteMajorityPct": 35.22,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3991,
+    "VoteMajority": 15013,
+    "VoteMajorityPct": 29.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4380,
+    "VoteMajority": 18441,
+    "VoteMajorityPct": 29.67,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4039,
+    "VoteMajority": 19461,
+    "VoteMajorityPct": 38.57,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1390,
+    "VoteMajority": 13400,
+    "VoteMajorityPct": 29.83,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4051,
+    "VoteMajority": 17333,
+    "VoteMajorityPct": 32.51,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 350,
+    "VoteMajority": 24897,
+    "VoteMajorityPct": 49.48,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1606,
+    "VoteMajority": 22294,
+    "VoteMajorityPct": 39.04,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4608,
+    "VoteMajority": 11060,
+    "VoteMajorityPct": 21.12,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1584,
+    "VoteMajority": 11544,
+    "VoteMajorityPct": 20.46,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 14,
+    "VoteMajority": 18798,
+    "VoteMajorityPct": 31.49,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3942,
+    "VoteMajority": 2599,
+    "VoteMajorityPct": 6.04,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 39,
+    "VoteMajority": 23430,
+    "VoteMajorityPct": 46.67,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4485,
+    "VoteMajority": 5019,
+    "VoteMajorityPct": 11.05,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1425,
+    "VoteMajority": 14475,
+    "VoteMajorityPct": 24.24,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4090,
+    "VoteMajority": 16724,
+    "VoteMajorityPct": 30.27,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4647,
+    "VoteMajority": 17723,
+    "VoteMajorityPct": 31.62,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4410,
+    "VoteMajority": 20571,
+    "VoteMajorityPct": 36.25,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 54,
+    "VoteMajority": 21995,
+    "VoteMajorityPct": 42.82,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4118,
+    "VoteMajority": 19985,
+    "VoteMajorityPct": 34.38,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4079,
+    "VoteMajority": 8289,
+    "VoteMajorityPct": 14.43,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4105,
+    "VoteMajority": 8335,
+    "VoteMajorityPct": 15.18,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1555,
+    "VoteMajority": 1554,
+    "VoteMajorityPct": 3.31,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4110,
+    "VoteMajority": 10830,
+    "VoteMajorityPct": 24.25,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 126,
+    "VoteMajority": 15816,
+    "VoteMajorityPct": 28.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4487,
+    "VoteMajority": 9850,
+    "VoteMajorityPct": 18.32,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4597,
+    "VoteMajority": 24966,
+    "VoteMajorityPct": 40.99,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 366,
+    "VoteMajority": 8010,
+    "VoteMajorityPct": 13.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4451,
+    "VoteMajority": 14283,
+    "VoteMajorityPct": 27.91,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4474,
+    "VoteMajority": 19001,
+    "VoteMajorityPct": 33.97,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4675,
+    "VoteMajority": 2645,
+    "VoteMajorityPct": 6.58,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4495,
+    "VoteMajority": 22679,
+    "VoteMajorityPct": 38.59,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4134,
+    "VoteMajority": 13425,
+    "VoteMajorityPct": 26.79,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 253,
+    "VoteMajority": 22574,
+    "VoteMajorityPct": 38.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4652,
+    "VoteMajority": 2860,
+    "VoteMajorityPct": 5.68,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4600,
+    "VoteMajority": 11473,
+    "VoteMajorityPct": 23.44,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 223,
+    "VoteMajority": 17103,
+    "VoteMajorityPct": 27.59,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4411,
+    "VoteMajority": 720,
+    "VoteMajorityPct": 1.61,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4517,
+    "VoteMajority": 16158,
+    "VoteMajorityPct": 25.65,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4622,
+    "VoteMajority": 3359,
+    "VoteMajorityPct": 6.2,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4450,
+    "VoteMajority": 12071,
+    "VoteMajorityPct": 23.81,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4447,
+    "VoteMajority": 4534,
+    "VoteMajorityPct": 9.11,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4446,
+    "VoteMajority": 14723,
+    "VoteMajorityPct": 24.78,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4024,
+    "VoteMajority": 4739,
+    "VoteMajorityPct": 10.29,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4115,
+    "VoteMajority": 7654,
+    "VoteMajorityPct": 16.24,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4492,
+    "VoteMajority": 5508,
+    "VoteMajorityPct": 10.16,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1480,
+    "VoteMajority": 9466,
+    "VoteMajorityPct": 16.92,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1405,
+    "VoteMajority": 3148,
+    "VoteMajorityPct": 8.14,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1444,
+    "VoteMajority": 23450,
+    "VoteMajorityPct": 42.39,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4074,
+    "VoteMajority": 13334,
+    "VoteMajorityPct": 26.08,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1520,
+    "VoteMajority": 9502,
+    "VoteMajorityPct": 18.36,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1544,
+    "VoteMajority": 1975,
+    "VoteMajorityPct": 3.09,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3998,
+    "VoteMajority": 11805,
+    "VoteMajorityPct": 25.41,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4052,
+    "VoteMajority": 8212,
+    "VoteMajorityPct": 16,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1424,
+    "VoteMajority": 19035,
+    "VoteMajorityPct": 31.73,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1576,
+    "VoteMajority": 9564,
+    "VoteMajorityPct": 19.31,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4055,
+    "VoteMajority": 5198,
+    "VoteMajorityPct": 9.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3957,
+    "VoteMajority": 10400,
+    "VoteMajorityPct": 21.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4406,
+    "VoteMajority": 4507,
+    "VoteMajorityPct": 8.26,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4361,
+    "VoteMajority": 16572,
+    "VoteMajorityPct": 38.65,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4070,
+    "VoteMajority": 17063,
+    "VoteMajorityPct": 32.97,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4006,
+    "VoteMajority": 1072,
+    "VoteMajorityPct": 2.05,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3935,
+    "VoteMajority": 15680,
+    "VoteMajorityPct": 27.11,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4116,
+    "VoteMajority": 807,
+    "VoteMajorityPct": 2,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 280,
+    "VoteMajority": 18581,
+    "VoteMajorityPct": 34.72,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 88,
+    "VoteMajority": 21917,
+    "VoteMajorityPct": 42.79,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1571,
+    "VoteMajority": 24943,
+    "VoteMajorityPct": 43.14,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4497,
+    "VoteMajority": 15339,
+    "VoteMajorityPct": 31.79,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4530,
+    "VoteMajority": 16630,
+    "VoteMajorityPct": 29.1,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4004,
+    "VoteMajority": 1657,
+    "VoteMajorityPct": 3.16,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1528,
+    "VoteMajority": 9445,
+    "VoteMajorityPct": 18.07,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4384,
+    "VoteMajority": 7730,
+    "VoteMajorityPct": 20.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4513,
+    "VoteMajority": 14179,
+    "VoteMajorityPct": 24.75,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4113,
+    "VoteMajority": 21958,
+    "VoteMajorityPct": 41.02,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1481,
+    "VoteMajority": 20983,
+    "VoteMajorityPct": 33.23,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4679,
+    "VoteMajority": 12429,
+    "VoteMajorityPct": 21.58,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4072,
+    "VoteMajority": 19801,
+    "VoteMajorityPct": 34.25,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 116,
+    "VoteMajority": 19673,
+    "VoteMajorityPct": 31.92,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3995,
+    "VoteMajority": 20094,
+    "VoteMajorityPct": 35.51,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 111,
+    "VoteMajority": 17494,
+    "VoteMajorityPct": 34.07,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1479,
+    "VoteMajority": 23883,
+    "VoteMajorityPct": 39.64,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1561,
+    "VoteMajority": 13980,
+    "VoteMajorityPct": 26.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4027,
+    "VoteMajority": 4269,
+    "VoteMajorityPct": 7.88,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4057,
+    "VoteMajority": 13772,
+    "VoteMajorityPct": 24.56,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 474,
+    "VoteMajority": 13199,
+    "VoteMajorityPct": 23.91,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4407,
+    "VoteMajority": 23326,
+    "VoteMajorityPct": 42.34,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4136,
+    "VoteMajority": 8300,
+    "VoteMajorityPct": 18.12,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4460,
+    "VoteMajority": 23628,
+    "VoteMajorityPct": 39.08,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4441,
+    "VoteMajority": 16951,
+    "VoteMajorityPct": 32.44,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 69,
+    "VoteMajority": 16835,
+    "VoteMajorityPct": 30.29,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 247,
+    "VoteMajority": 19091,
+    "VoteMajorityPct": 32.03,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 274,
+    "VoteMajority": 16355,
+    "VoteMajorityPct": 29.42,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 333,
+    "VoteMajority": 14327,
+    "VoteMajorityPct": 28.9,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 103,
+    "VoteMajority": 24137,
+    "VoteMajorityPct": 42.55,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4625,
+    "VoteMajority": 4712,
+    "VoteMajorityPct": 8.77,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 3926,
+    "VoteMajority": 2023,
+    "VoteMajorityPct": 4.93,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4414,
+    "VoteMajority": 12698,
+    "VoteMajorityPct": 24.43,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4025,
+    "VoteMajority": 11616,
+    "VoteMajorityPct": 23.06,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4017,
+    "VoteMajority": 9965,
+    "VoteMajorityPct": 21.11,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4069,
+    "VoteMajority": 9215,
+    "VoteMajorityPct": 17.49,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1581,
+    "VoteMajority": 12460,
+    "VoteMajorityPct": 23.4,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 117,
+    "VoteMajority": 12090,
+    "VoteMajorityPct": 22.18,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4524,
+    "VoteMajority": 4332,
+    "VoteMajorityPct": 7.78,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1565,
+    "VoteMajority": 4681,
+    "VoteMajorityPct": 8.77,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1542,
+    "VoteMajority": 19286,
+    "VoteMajorityPct": 38.6,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 105,
+    "VoteMajority": 18050,
+    "VoteMajorityPct": 34.97,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1537,
+    "VoteMajority": 10562,
+    "VoteMajorityPct": 21.38,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3921,
+    "VoteMajority": 16016,
+    "VoteMajorityPct": 28.66,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4066,
+    "VoteMajority": 18646,
+    "VoteMajorityPct": 37.87,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4668,
+    "VoteMajority": 7363,
+    "VoteMajorityPct": 16.29,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4498,
+    "VoteMajority": 27772,
+    "VoteMajorityPct": 48.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3948,
+    "VoteMajority": 18872,
+    "VoteMajorityPct": 42.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4522,
+    "VoteMajority": 15887,
+    "VoteMajorityPct": 25.2,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 3987,
+    "VoteMajority": 9430,
+    "VoteMajorityPct": 19.3,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1451,
+    "VoteMajority": 16678,
+    "VoteMajorityPct": 27.29,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1547,
+    "VoteMajority": 24380,
+    "VoteMajorityPct": 40.07,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4132,
+    "VoteMajority": 11695,
+    "VoteMajorityPct": 22.53,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3990,
+    "VoteMajority": 5520,
+    "VoteMajorityPct": 10.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4068,
+    "VoteMajority": 2092,
+    "VoteMajorityPct": 3.57,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4483,
+    "VoteMajority": 23108,
+    "VoteMajorityPct": 40.53,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4106,
+    "VoteMajority": 2464,
+    "VoteMajorityPct": 4.81,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4589,
+    "VoteMajority": 21241,
+    "VoteMajorityPct": 34.86,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1562,
+    "VoteMajority": 3435,
+    "VoteMajorityPct": 6.81,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3985,
+    "VoteMajority": 7031,
+    "VoteMajorityPct": 15.68,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4320,
+    "VoteMajority": 18149,
+    "VoteMajorityPct": 32.97,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 245,
+    "VoteMajority": 14209,
+    "VoteMajorityPct": 28.5,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4091,
+    "VoteMajority": 2508,
+    "VoteMajorityPct": 4.88,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 87,
+    "VoteMajority": 10738,
+    "VoteMajorityPct": 22.22,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4137,
+    "VoteMajority": 15910,
+    "VoteMajorityPct": 34.24,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4599,
+    "VoteMajority": 4752,
+    "VoteMajorityPct": 10.68,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4478,
+    "VoteMajority": 31,
+    "VoteMajorityPct": 0.07,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3945,
+    "VoteMajority": 16573,
+    "VoteMajorityPct": 30.67,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3980,
+    "VoteMajority": 23914,
+    "VoteMajorityPct": 40.39,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4071,
+    "VoteMajority": 3792,
+    "VoteMajorityPct": 6.69,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4073,
+    "VoteMajority": 13477,
+    "VoteMajorityPct": 26.81,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4496,
+    "VoteMajority": 7200,
+    "VoteMajorityPct": 14.13,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4455,
+    "VoteMajority": 7421,
+    "VoteMajorityPct": 13.53,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1496,
+    "VoteMajority": 18008,
+    "VoteMajorityPct": 28.14,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4100,
+    "VoteMajority": 17443,
+    "VoteMajorityPct": 32.77,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4655,
+    "VoteMajority": 1020,
+    "VoteMajorityPct": 2.14,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3944,
+    "VoteMajority": 3110,
+    "VoteMajorityPct": 7.37,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4494,
+    "VoteMajority": 25777,
+    "VoteMajorityPct": 46.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4095,
+    "VoteMajority": 21270,
+    "VoteMajorityPct": 39.92,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1554,
+    "VoteMajority": 314,
+    "VoteMajorityPct": 0.74,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1585,
+    "VoteMajority": 5622,
+    "VoteMajorityPct": 10.91,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4604,
+    "VoteMajority": 148,
+    "VoteMajorityPct": 0.3,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4093,
+    "VoteMajority": 3386,
+    "VoteMajorityPct": 6.86,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4092,
+    "VoteMajority": 11490,
+    "VoteMajorityPct": 24.38,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4064,
+    "VoteMajority": 6578,
+    "VoteMajorityPct": 12.3,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4067,
+    "VoteMajority": 9999,
+    "VoteMajorityPct": 17.49,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4452,
+    "VoteMajority": 11142,
+    "VoteMajorityPct": 20.55,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4032,
+    "VoteMajority": 331,
+    "VoteMajorityPct": 0.61,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4475,
+    "VoteMajority": 21555,
+    "VoteMajorityPct": 37.81,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 8,
+    "VoteMajority": 26457,
+    "VoteMajorityPct": 45.43,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1500,
+    "VoteMajority": 353,
+    "VoteMajorityPct": 0.64,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4098,
+    "VoteMajority": 16012,
+    "VoteMajorityPct": 27.57,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 114,
+    "VoteMajority": 5106,
+    "VoteMajorityPct": 9.61,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1487,
+    "VoteMajority": 7937,
+    "VoteMajorityPct": 16.33,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4369,
+    "VoteMajority": 2690,
+    "VoteMajorityPct": 4.48,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4462,
+    "VoteMajority": 23508,
+    "VoteMajorityPct": 41.31,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3950,
+    "VoteMajority": 10458,
+    "VoteMajorityPct": 23.3,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4593,
+    "VoteMajority": 1695,
+    "VoteMajorityPct": 3.95,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4674,
+    "VoteMajority": 13572,
+    "VoteMajorityPct": 23.87,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4399,
+    "VoteMajority": 19641,
+    "VoteMajorityPct": 37.22,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4401,
+    "VoteMajority": 12399,
+    "VoteMajorityPct": 20.14,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4358,
+    "VoteMajority": 14307,
+    "VoteMajorityPct": 35.56,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4423,
+    "VoteMajority": 5677,
+    "VoteMajorityPct": 10.6,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4429,
+    "VoteMajority": 5514,
+    "VoteMajorityPct": 12.49,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4062,
+    "VoteMajority": 45,
+    "VoteMajorityPct": 0.07,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1597,
+    "VoteMajority": 7992,
+    "VoteMajorityPct": 15.59,
+    "NearestRival": "Sinn FÃ©in"
+  },
+  {
+    "MemberID": 4611,
+    "VoteMajority": 1996,
+    "VoteMajorityPct": 4.57,
+    "NearestRival": "Social Democratic and Labour Party"
+  },
+  {
+    "MemberID": 4360,
+    "VoteMajority": 8474,
+    "VoteMajorityPct": 19.76,
+    "NearestRival": "Alliance Party"
+  },
+  {
+    "MemberID": 1409,
+    "VoteMajority": 8842,
+    "VoteMajorityPct": 21.55,
+    "NearestRival": "Sinn FÃ©in"
+  },
+  {
+    "MemberID": 4129,
+    "VoteMajority": 20643,
+    "VoteMajorityPct": 42.6,
+    "NearestRival": "Sinn FÃ©in"
+  },
+  {
+    "MemberID": 650,
+    "VoteMajority": 19229,
+    "VoteMajorityPct": 42.8,
+    "NearestRival": "Ulster Unionist Party"
+  },
+  {
+    "MemberID": 4131,
+    "VoteMajority": 18343,
+    "VoteMajorityPct": 47.34,
+    "NearestRival": "Alliance Party"
+  },
+  {
+    "MemberID": 1388,
+    "VoteMajority": 2081,
+    "VoteMajorityPct": 4.53,
+    "NearestRival": "Sinn FÃ©in"
+  },
+  {
+    "MemberID": 4633,
+    "VoteMajority": 3208,
+    "VoteMajorityPct": 7.43,
+    "NearestRival": "Ulster Unionist Party"
+  },
+  {
+    "MemberID": 1593,
+    "VoteMajority": 15943,
+    "VoteMajorityPct": 41.82,
+    "NearestRival": "Alliance Party"
+  },
+  {
+    "MemberID": 3930,
+    "VoteMajority": 14699,
+    "VoteMajorityPct": 25.48,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1437,
+    "VoteMajority": 1208,
+    "VoteMajorityPct": 3.08,
+    "NearestRival": "Democratic Unionist Party"
+  },
+  {
+    "MemberID": 320,
+    "VoteMajority": 4460,
+    "VoteMajorityPct": 12.36,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4671,
+    "VoteMajority": 31730,
+    "VoteMajorityPct": 69.05,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 529,
+    "VoteMajority": 11666,
+    "VoteMajorityPct": 20.52,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 62,
+    "VoteMajority": 11503,
+    "VoteMajorityPct": 24.53,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1474,
+    "VoteMajority": 5259,
+    "VoteMajorityPct": 14.07,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4122,
+    "VoteMajority": 8715,
+    "VoteMajorityPct": 20.4,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4641,
+    "VoteMajority": 11160,
+    "VoteMajorityPct": 29.12,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4658,
+    "VoteMajority": 4224,
+    "VoteMajorityPct": 9.13,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4083,
+    "VoteMajority": 8323,
+    "VoteMajorityPct": 18.42,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1506,
+    "VoteMajority": 14077,
+    "VoteMajorityPct": 35.55,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4269,
+    "VoteMajority": 13873,
+    "VoteMajorityPct": 38.93,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1516,
+    "VoteMajority": 18651,
+    "VoteMajorityPct": 35.69,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 491,
+    "VoteMajority": 23320,
+    "VoteMajorityPct": 48.23,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4356,
+    "VoteMajority": 11295,
+    "VoteMajorityPct": 28.4,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 553,
+    "VoteMajority": 13238,
+    "VoteMajorityPct": 41.63,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4632,
+    "VoteMajority": 4174,
+    "VoteMajorityPct": 8.02,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4449,
+    "VoteMajority": 9485,
+    "VoteMajorityPct": 22.29,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4657,
+    "VoteMajority": 23284,
+    "VoteMajorityPct": 43.2,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4610,
+    "VoteMajority": 4355,
+    "VoteMajorityPct": 9.01,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1588,
+    "VoteMajority": 8379,
+    "VoteMajorityPct": 18.36,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 146,
+    "VoteMajority": 17061,
+    "VoteMajorityPct": 30.23,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 411,
+    "VoteMajority": 12005,
+    "VoteMajorityPct": 27.39,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 230,
+    "VoteMajority": 16117,
+    "VoteMajorityPct": 29.08,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4061,
+    "VoteMajority": 15618,
+    "VoteMajorityPct": 29.99,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4046,
+    "VoteMajority": 12341,
+    "VoteMajorityPct": 29.75,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 389,
+    "VoteMajority": 5169,
+    "VoteMajorityPct": 11.24,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4480,
+    "VoteMajority": 13168,
+    "VoteMajorityPct": 37.45,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4436,
+    "VoteMajority": 6661,
+    "VoteMajorityPct": 14.48,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4125,
+    "VoteMajority": 10349,
+    "VoteMajorityPct": 21.43,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4523,
+    "VoteMajority": 30738,
+    "VoteMajorityPct": 49.34,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4124,
+    "VoteMajority": 14937,
+    "VoteMajorityPct": 40.27,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1446,
+    "VoteMajority": 13746,
+    "VoteMajorityPct": 41.74,
+    "NearestRival": "Plaid Cymru"
+  },
+  {
+    "MemberID": 4572,
+    "VoteMajority": 13871,
+    "VoteMajorityPct": 37.28,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4040,
+    "VoteMajority": 11412,
+    "VoteMajorityPct": 31.62,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4408,
+    "VoteMajority": 9176,
+    "VoteMajorityPct": 16.26,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 534,
+    "VoteMajority": 2379,
+    "VoteMajorityPct": 6.15,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3976,
+    "VoteMajority": 2015,
+    "VoteMajorityPct": 4.14,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4525,
+    "VoteMajority": 12631,
+    "VoteMajorityPct": 32.99,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 394,
+    "VoteMajority": 11798,
+    "VoteMajorityPct": 27.06,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 165,
+    "VoteMajority": 6296,
+    "VoteMajorityPct": 13.64,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4500,
+    "VoteMajority": 15596,
+    "VoteMajorityPct": 30.37,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4378,
+    "VoteMajority": 15580,
+    "VoteMajorityPct": 33.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4458,
+    "VoteMajority": 18406,
+    "VoteMajorityPct": 36.65,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4651,
+    "VoteMajority": 32551,
+    "VoteMajorityPct": 77.14,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4243,
+    "VoteMajority": 15546,
+    "VoteMajorityPct": 39.77,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4382,
+    "VoteMajority": 12661,
+    "VoteMajorityPct": 22.64,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4628,
+    "VoteMajority": 885,
+    "VoteMajorityPct": 1.95,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4621,
+    "VoteMajority": 4761,
+    "VoteMajorityPct": 8.8,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 437,
+    "VoteMajority": 3797,
+    "VoteMajorityPct": 8.4,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 252,
+    "VoteMajority": 687,
+    "VoteMajorityPct": 1.08,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 533,
+    "VoteMajority": 4240,
+    "VoteMajorityPct": 10.76,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 206,
+    "VoteMajority": 34584,
+    "VoteMajorityPct": 70.09,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1489,
+    "VoteMajority": 27997,
+    "VoteMajorityPct": 53.54,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4212,
+    "VoteMajority": 8182,
+    "VoteMajorityPct": 17.39,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 325,
+    "VoteMajority": 5288,
+    "VoteMajorityPct": 11.37,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 429,
+    "VoteMajority": 25405,
+    "VoteMajorityPct": 51.3,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1533,
+    "VoteMajority": 14322,
+    "VoteMajorityPct": 38.58,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 172,
+    "VoteMajority": 35139,
+    "VoteMajorityPct": 62.42,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1510,
+    "VoteMajority": 14024,
+    "VoteMajorityPct": 33.14,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4609,
+    "VoteMajority": 2185,
+    "VoteMajorityPct": 5.16,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4620,
+    "VoteMajority": 23162,
+    "VoteMajorityPct": 43.54,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1536,
+    "VoteMajority": 20263,
+    "VoteMajorityPct": 42.17,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4683,
+    "VoteMajority": 20,
+    "VoteMajorityPct": 0.05,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4645,
+    "VoteMajority": 8025,
+    "VoteMajorityPct": 23.22,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4277,
+    "VoteMajority": 14508,
+    "VoteMajorityPct": 35.58,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4077,
+    "VoteMajority": 4587,
+    "VoteMajorityPct": 12.56,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 415,
+    "VoteMajority": 16991,
+    "VoteMajorityPct": 32.06,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4670,
+    "VoteMajority": 2549,
+    "VoteMajorityPct": 4.11,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4595,
+    "VoteMajority": 3897,
+    "VoteMajorityPct": 11.76,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 177,
+    "VoteMajority": 13314,
+    "VoteMajorityPct": 26.44,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4672,
+    "VoteMajority": 265,
+    "VoteMajorityPct": 0.52,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 307,
+    "VoteMajority": 8580,
+    "VoteMajorityPct": 17.21,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 481,
+    "VoteMajority": 42214,
+    "VoteMajorityPct": 76.08,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 155,
+    "VoteMajority": 10598,
+    "VoteMajorityPct": 28.43,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4501,
+    "VoteMajority": 16334,
+    "VoteMajorityPct": 48.69,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4571,
+    "VoteMajority": 19143,
+    "VoteMajorityPct": 45.72,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3915,
+    "VoteMajority": 441,
+    "VoteMajorityPct": 0.88,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 465,
+    "VoteMajority": 2523,
+    "VoteMajorityPct": 7.22,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3999,
+    "VoteMajority": 5815,
+    "VoteMajorityPct": 12.86,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 449,
+    "VoteMajority": 19601,
+    "VoteMajorityPct": 48.86,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3973,
+    "VoteMajority": 14892,
+    "VoteMajorityPct": 40.95,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 150,
+    "VoteMajority": 37316,
+    "VoteMajorityPct": 65,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1484,
+    "VoteMajority": 502,
+    "VoteMajorityPct": 1.16,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4510,
+    "VoteMajority": 28156,
+    "VoteMajorityPct": 50.15,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 432,
+    "VoteMajority": 9582,
+    "VoteMajorityPct": 19.75,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 413,
+    "VoteMajority": 23698,
+    "VoteMajorityPct": 49.71,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4472,
+    "VoteMajority": 5376,
+    "VoteMajorityPct": 11.14,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4614,
+    "VoteMajority": 1586,
+    "VoteMajorityPct": 3.52,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1511,
+    "VoteMajority": 22,
+    "VoteMajorityPct": 0.06,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4139,
+    "VoteMajority": 10435,
+    "VoteMajorityPct": 24.58,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1470,
+    "VoteMajority": 1832,
+    "VoteMajorityPct": 5.22,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4000,
+    "VoteMajority": 17350,
+    "VoteMajorityPct": 41.21,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3966,
+    "VoteMajority": 15514,
+    "VoteMajorityPct": 32.43,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4394,
+    "VoteMajority": 20540,
+    "VoteMajorityPct": 45.02,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3913,
+    "VoteMajority": 7285,
+    "VoteMajorityPct": 19.57,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4637,
+    "VoteMajority": 4375,
+    "VoteMajorityPct": 9.13,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4698,
+    "VoteMajority": 5629,
+    "VoteMajorityPct": 25.52,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4456,
+    "VoteMajority": 29875,
+    "VoteMajorityPct": 55.73,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 3972,
+    "VoteMajority": 3280,
+    "VoteMajorityPct": 7.32,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 185,
+    "VoteMajority": 33215,
+    "VoteMajorityPct": 60.47,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4370,
+    "VoteMajority": 16574,
+    "VoteMajorityPct": 37.24,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1548,
+    "VoteMajority": 8003,
+    "VoteMajorityPct": 21.74,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 308,
+    "VoteMajority": 7947,
+    "VoteMajorityPct": 16.91,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 197,
+    "VoteMajority": 27712,
+    "VoteMajorityPct": 47.12,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4569,
+    "VoteMajority": 17198,
+    "VoteMajorityPct": 37.56,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4673,
+    "VoteMajority": 9554,
+    "VoteMajorityPct": 20.38,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4425,
+    "VoteMajority": 17196,
+    "VoteMajorityPct": 42.6,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 166,
+    "VoteMajority": 10247,
+    "VoteMajorityPct": 21.1,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 181,
+    "VoteMajority": 22607,
+    "VoteMajorityPct": 48.96,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 382,
+    "VoteMajority": 239,
+    "VoteMajorityPct": 0.46,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 400,
+    "VoteMajority": 14803,
+    "VoteMajorityPct": 33.68,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1387,
+    "VoteMajority": 4852,
+    "VoteMajorityPct": 9.29,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 178,
+    "VoteMajority": 18115,
+    "VoteMajorityPct": 37.9,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 318,
+    "VoteMajority": 16483,
+    "VoteMajorityPct": 41,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4244,
+    "VoteMajority": 26261,
+    "VoteMajorityPct": 51.98,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1406,
+    "VoteMajority": 4652,
+    "VoteMajorityPct": 10.15,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 410,
+    "VoteMajority": 10174,
+    "VoteMajorityPct": 22.14,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4119,
+    "VoteMajority": 8084,
+    "VoteMajorityPct": 19.04,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4391,
+    "VoteMajority": 6700,
+    "VoteMajorityPct": 16.32,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4405,
+    "VoteMajority": 6353,
+    "VoteMajorityPct": 15.77,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4127,
+    "VoteMajority": 9997,
+    "VoteMajorityPct": 22.16,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4418,
+    "VoteMajority": 11390,
+    "VoteMajorityPct": 22.36,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 199,
+    "VoteMajority": 11512,
+    "VoteMajorityPct": 26.59,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4664,
+    "VoteMajority": 1538,
+    "VoteMajorityPct": 3.16,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4444,
+    "VoteMajority": 15987,
+    "VoteMajorityPct": 29.4,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4030,
+    "VoteMajority": 10396,
+    "VoteMajorityPct": 28.37,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4120,
+    "VoteMajority": 19705,
+    "VoteMajorityPct": 39.26,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 210,
+    "VoteMajority": 20250,
+    "VoteMajorityPct": 36.79,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 4363,
+    "VoteMajority": 20368,
+    "VoteMajorityPct": 42.87,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4515,
+    "VoteMajority": 21115,
+    "VoteMajorityPct": 48.34,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4514,
+    "VoteMajority": 30509,
+    "VoteMajorityPct": 51.71,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 338,
+    "VoteMajority": 22428,
+    "VoteMajorityPct": 42.78,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1491,
+    "VoteMajority": 13394,
+    "VoteMajorityPct": 26.37,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1438,
+    "VoteMajority": 12939,
+    "VoteMajorityPct": 29.89,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 392,
+    "VoteMajority": 3882,
+    "VoteMajorityPct": 7.84,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1400,
+    "VoteMajority": 12551,
+    "VoteMajorityPct": 26.92,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1392,
+    "VoteMajority": 18383,
+    "VoteMajorityPct": 41.59,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4665,
+    "VoteMajority": 8792,
+    "VoteMajorityPct": 18.35,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4648,
+    "VoteMajority": 48,
+    "VoteMajorityPct": 0.09,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4660,
+    "VoteMajority": 259,
+    "VoteMajorityPct": 0.56,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1171,
+    "VoteMajority": 31026,
+    "VoteMajorityPct": 66.88,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4029,
+    "VoteMajority": 15162,
+    "VoteMajorityPct": 31.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4082,
+    "VoteMajority": 16027,
+    "VoteMajorityPct": 33.71,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4026,
+    "VoteMajority": 11060,
+    "VoteMajorityPct": 29.48,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4342,
+    "VoteMajority": 7617,
+    "VoteMajorityPct": 15.28,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4618,
+    "VoteMajority": 13477,
+    "VoteMajorityPct": 28.03,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4615,
+    "VoteMajority": 9868,
+    "VoteMajorityPct": 20.05,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 484,
+    "VoteMajority": 35947,
+    "VoteMajorityPct": 74.86,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4473,
+    "VoteMajority": 13828,
+    "VoteMajorityPct": 31.27,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4263,
+    "VoteMajority": 31445,
+    "VoteMajorityPct": 63.24,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4682,
+    "VoteMajority": 6807,
+    "VoteMajorityPct": 13.29,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1583,
+    "VoteMajority": 36754,
+    "VoteMajorityPct": 60.54,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1490,
+    "VoteMajority": 4700,
+    "VoteMajorityPct": 10.87,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 328,
+    "VoteMajority": 11248,
+    "VoteMajorityPct": 24.83,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4400,
+    "VoteMajority": 5365,
+    "VoteMajorityPct": 12.21,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 140,
+    "VoteMajority": 21608,
+    "VoteMajorityPct": 45.32,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 483,
+    "VoteMajority": 32149,
+    "VoteMajorityPct": 60.07,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4457,
+    "VoteMajority": 24343,
+    "VoteMajorityPct": 46.03,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 473,
+    "VoteMajority": 15723,
+    "VoteMajorityPct": 44.17,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1383,
+    "VoteMajority": 5235,
+    "VoteMajorityPct": 11.7,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4676,
+    "VoteMajority": 2416,
+    "VoteMajorityPct": 4.39,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4626,
+    "VoteMajority": 3083,
+    "VoteMajorityPct": 5.52,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1579,
+    "VoteMajority": 2176,
+    "VoteMajorityPct": 4.7,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4126,
+    "VoteMajority": 19284,
+    "VoteMajorityPct": 37.16,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4654,
+    "VoteMajority": 3749,
+    "VoteMajorityPct": 6.79,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4617,
+    "VoteMajority": 1206,
+    "VoteMajorityPct": 2.23,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4520,
+    "VoteMajority": 20714,
+    "VoteMajorityPct": 39.01,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1524,
+    "VoteMajority": 37931,
+    "VoteMajorityPct": 68.52,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4464,
+    "VoteMajority": 2565,
+    "VoteMajorityPct": 7.22,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4667,
+    "VoteMajority": 3928,
+    "VoteMajorityPct": 7.76,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4644,
+    "VoteMajority": 7650,
+    "VoteMajorityPct": 18.29,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4316,
+    "VoteMajority": 14944,
+    "VoteMajorityPct": 32.6,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4598,
+    "VoteMajority": 789,
+    "VoteMajorityPct": 1.63,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4409,
+    "VoteMajority": 21902,
+    "VoteMajorityPct": 48.11,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4368,
+    "VoteMajority": 12972,
+    "VoteMajorityPct": 22.17,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1541,
+    "VoteMajority": 12024,
+    "VoteMajorityPct": 29.81,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4056,
+    "VoteMajority": 3431,
+    "VoteMajorityPct": 8.53,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 523,
+    "VoteMajority": 19261,
+    "VoteMajorityPct": 46.26,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3928,
+    "VoteMajority": 11907,
+    "VoteMajorityPct": 36.77,
+    "NearestRival": "Plaid Cymru"
+  },
+  {
+    "MemberID": 4479,
+    "VoteMajority": 10240,
+    "VoteMajorityPct": 26.65,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4042,
+    "VoteMajority": 11448,
+    "VoteMajorityPct": 28.7,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1587,
+    "VoteMajority": 8514,
+    "VoteMajorityPct": 23.45,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4058,
+    "VoteMajority": 27748,
+    "VoteMajorityPct": 57.96,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1436,
+    "VoteMajority": 30,
+    "VoteMajorityPct": 0.07,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4642,
+    "VoteMajority": 242,
+    "VoteMajorityPct": 0.76,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4666,
+    "VoteMajority": 888,
+    "VoteMajorityPct": 1.65,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4426,
+    "VoteMajority": 3321,
+    "VoteMajorityPct": 5.87,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4397,
+    "VoteMajority": 36200,
+    "VoteMajorityPct": 71.99,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4505,
+    "VoteMajority": 18757,
+    "VoteMajorityPct": 32.57,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1603,
+    "VoteMajority": 6059,
+    "VoteMajorityPct": 14.57,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4603,
+    "VoteMajority": 6917,
+    "VoteMajorityPct": 15.86,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4471,
+    "VoteMajority": 18575,
+    "VoteMajorityPct": 34.99,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4031,
+    "VoteMajority": 15965,
+    "VoteMajorityPct": 37.81,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4396,
+    "VoteMajority": 19132,
+    "VoteMajorityPct": 40.18,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 301,
+    "VoteMajority": 4667,
+    "VoteMajorityPct": 10.52,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4493,
+    "VoteMajority": 12752,
+    "VoteMajorityPct": 30.77,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1501,
+    "VoteMajority": 12364,
+    "VoteMajorityPct": 25.59,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 304,
+    "VoteMajority": 33944,
+    "VoteMajorityPct": 62.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 514,
+    "VoteMajority": 7915,
+    "VoteMajorityPct": 18.63,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4573,
+    "VoteMajority": 15458,
+    "VoteMajorityPct": 26.57,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1538,
+    "VoteMajority": 11689,
+    "VoteMajorityPct": 21.49,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4616,
+    "VoteMajority": 187,
+    "VoteMajorityPct": 0.33,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4511,
+    "VoteMajority": 13807,
+    "VoteMajorityPct": 24.95,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4138,
+    "VoteMajority": 35393,
+    "VoteMajorityPct": 59.16,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4389,
+    "VoteMajority": 12182,
+    "VoteMajorityPct": 19.77,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4662,
+    "VoteMajority": 2322,
+    "VoteMajorityPct": 4.31,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4508,
+    "VoteMajority": 2359,
+    "VoteMajorityPct": 5.65,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4678,
+    "VoteMajority": 831,
+    "VoteMajorityPct": 1.63,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4267,
+    "VoteMajority": 11387,
+    "VoteMajorityPct": 30.03,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4631,
+    "VoteMajority": 5652,
+    "VoteMajorityPct": 9.9,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4253,
+    "VoteMajority": 15603,
+    "VoteMajorityPct": 29.42,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3914,
+    "VoteMajority": 28714,
+    "VoteMajorityPct": 69.51,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1521,
+    "VoteMajority": 12940,
+    "VoteMajorityPct": 31.89,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 193,
+    "VoteMajority": 21375,
+    "VoteMajorityPct": 44.42,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4088,
+    "VoteMajority": 32017,
+    "VoteMajorityPct": 66.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4607,
+    "VoteMajority": 13283,
+    "VoteMajorityPct": 32.58,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4264,
+    "VoteMajority": 14864,
+    "VoteMajorityPct": 29.3,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 520,
+    "VoteMajority": 17263,
+    "VoteMajorityPct": 40.13,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4359,
+    "VoteMajority": 16761,
+    "VoteMajorityPct": 50.38,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4653,
+    "VoteMajority": 1554,
+    "VoteMajorityPct": 3.49,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 163,
+    "VoteMajority": 39883,
+    "VoteMajorityPct": 70.42,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 167,
+    "VoteMajority": 32908,
+    "VoteMajorityPct": 72.86,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 298,
+    "VoteMajority": 15207,
+    "VoteMajorityPct": 31.04,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 161,
+    "VoteMajority": 19693,
+    "VoteMajorityPct": 37.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4268,
+    "VoteMajority": 32365,
+    "VoteMajorityPct": 54.28,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4395,
+    "VoteMajority": 3925,
+    "VoteMajorityPct": 9.42,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3956,
+    "VoteMajority": 4356,
+    "VoteMajorityPct": 11.62,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4638,
+    "VoteMajority": 16998,
+    "VoteMajorityPct": 31.31,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4003,
+    "VoteMajority": 10014,
+    "VoteMajorityPct": 22.52,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4433,
+    "VoteMajority": 37336,
+    "VoteMajorityPct": 52.14,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4649,
+    "VoteMajority": 915,
+    "VoteMajorityPct": 1.51,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3952,
+    "VoteMajority": 9605,
+    "VoteMajorityPct": 20.04,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1463,
+    "VoteMajority": 7713,
+    "VoteMajorityPct": 19.73,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4623,
+    "VoteMajority": 3269,
+    "VoteMajorityPct": 7.17,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 450,
+    "VoteMajority": 14819,
+    "VoteMajorityPct": 29.61,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4588,
+    "VoteMajority": 8961,
+    "VoteMajorityPct": 16.66,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4518,
+    "VoteMajority": 15560,
+    "VoteMajorityPct": 26.64,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4076,
+    "VoteMajority": 8892,
+    "VoteMajorityPct": 20.18,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 360,
+    "VoteMajority": 4694,
+    "VoteMajorityPct": 9.08,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4491,
+    "VoteMajority": 34899,
+    "VoteMajorityPct": 63.32,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1604,
+    "VoteMajority": 22090,
+    "VoteMajorityPct": 48.93,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1398,
+    "VoteMajority": 12078,
+    "VoteMajorityPct": 29.25,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4504,
+    "VoteMajority": 9639,
+    "VoteMajorityPct": 18.21,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 3924,
+    "VoteMajority": 13126,
+    "VoteMajorityPct": 31.01,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 420,
+    "VoteMajority": 14499,
+    "VoteMajorityPct": 29.47,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4034,
+    "VoteMajority": 13542,
+    "VoteMajorityPct": 28.85,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1442,
+    "VoteMajority": 4563,
+    "VoteMajorityPct": 19.6,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4634,
+    "VoteMajority": 2988,
+    "VoteMajorityPct": 5.66,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 188,
+    "VoteMajority": 4124,
+    "VoteMajorityPct": 6.63,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4612,
+    "VoteMajority": 2044,
+    "VoteMajorityPct": 6.61,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 1513,
+    "VoteMajority": 5339,
+    "VoteMajorityPct": 10.31,
+    "NearestRival": "Scottish National Party"
+  },
+  {
+    "MemberID": 4656,
+    "VoteMajority": 816,
+    "VoteMajorityPct": 1.36,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1439,
+    "VoteMajority": 3512,
+    "VoteMajorityPct": 6.73,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1591,
+    "VoteMajority": 777,
+    "VoteMajorityPct": 1.5,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 151,
+    "VoteMajority": 1369,
+    "VoteMajorityPct": 2.7,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 207,
+    "VoteMajority": 9762,
+    "VoteMajorityPct": 14.73,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4602,
+    "VoteMajority": 5694,
+    "VoteMajorityPct": 11.48,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4630,
+    "VoteMajority": 104,
+    "VoteMajorityPct": 0.26,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1397,
+    "VoteMajority": 92,
+    "VoteMajorityPct": 0.33,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 3943,
+    "VoteMajority": 3908,
+    "VoteMajorityPct": 9.52,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4521,
+    "VoteMajority": 4850,
+    "VoteMajorityPct": 15.98,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4470,
+    "VoteMajority": 6269,
+    "VoteMajorityPct": 13.48,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4430,
+    "VoteMajority": 2267,
+    "VoteMajorityPct": 6.3,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4469,
+    "VoteMajority": 266,
+    "VoteMajorityPct": 0.53,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 1546,
+    "VoteMajority": 1007,
+    "VoteMajorityPct": 6.8,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4371,
+    "VoteMajority": 1328,
+    "VoteMajorityPct": 2.76,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4443,
+    "VoteMajority": 2561,
+    "VoteMajorityPct": 6.59,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4403,
+    "VoteMajority": 5262,
+    "VoteMajorityPct": 13.6,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4463,
+    "VoteMajority": 60,
+    "VoteMajorityPct": 0.17,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4640,
+    "VoteMajority": 75,
+    "VoteMajorityPct": 0.21,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4417,
+    "VoteMajority": 1625,
+    "VoteMajorityPct": 2.87,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4402,
+    "VoteMajority": 844,
+    "VoteMajorityPct": 1.65,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4467,
+    "VoteMajority": 4924,
+    "VoteMajorityPct": 9.33,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4420,
+    "VoteMajority": 2613,
+    "VoteMajorityPct": 5.61,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4486,
+    "VoteMajority": 3878,
+    "VoteMajorityPct": 7.39,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4390,
+    "VoteMajority": 5919,
+    "VoteMajorityPct": 15.39,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4419,
+    "VoteMajority": 1097,
+    "VoteMajorityPct": 2.22,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4424,
+    "VoteMajority": 4923,
+    "VoteMajorityPct": 9.15,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4357,
+    "VoteMajority": 4139,
+    "VoteMajorityPct": 11.26,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4412,
+    "VoteMajority": 3866,
+    "VoteMajorityPct": 7.15,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4440,
+    "VoteMajority": 318,
+    "VoteMajorityPct": 0.76,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4374,
+    "VoteMajority": 2288,
+    "VoteMajorityPct": 5.19,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4488,
+    "VoteMajority": 2919,
+    "VoteMajorityPct": 5.2,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4421,
+    "VoteMajority": 2541,
+    "VoteMajorityPct": 6.09,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4365,
+    "VoteMajority": 195,
+    "VoteMajorityPct": 0.51,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4435,
+    "VoteMajority": 3633,
+    "VoteMajorityPct": 7.66,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4432,
+    "VoteMajority": 1060,
+    "VoteMajorityPct": 3.17,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 1440,
+    "VoteMajority": 21,
+    "VoteMajorityPct": 0.04,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4466,
+    "VoteMajority": 3267,
+    "VoteMajorityPct": 8.09,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4385,
+    "VoteMajority": 1267,
+    "VoteMajorityPct": 2.81,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4465,
+    "VoteMajority": 384,
+    "VoteMajorityPct": 0.98,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4434,
+    "VoteMajority": 2,
+    "VoteMajorityPct": 0,
+    "NearestRival": "Liberal Democrats"
+  },
+  {
+    "MemberID": 1514,
+    "VoteMajority": 6645,
+    "VoteMajorityPct": 15.48,
+    "NearestRival": "Conservative"
+  },
+  {
+    "MemberID": 4461,
+    "VoteMajority": 2027,
+    "VoteMajorityPct": 4.55,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4393,
+    "VoteMajority": 4264,
+    "VoteMajorityPct": 9.73,
+    "NearestRival": "Labour"
+  },
+  {
+    "MemberID": 4453,
+    "VoteMajority": 3425,
+    "VoteMajorityPct": 7.87,
+    "NearestRival": "Labour"
+  }
+]
