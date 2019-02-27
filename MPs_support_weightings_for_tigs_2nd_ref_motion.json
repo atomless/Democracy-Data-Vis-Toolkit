@@ -42,7 +42,7 @@
   {
     "MemberID": "4516",
     "FirstAndLastName": "heidi allen",
-    "Support": -0.25
+    "Support": 0.25
   },
   {
     "MemberID": "4573",
@@ -2802,7 +2802,7 @@
   {
     "MemberID": "3938",
     "FirstAndLastName": "anna soubry",
-    "Support": -0.167
+    "Support": 0.167
   },
   {
     "MemberID": "318",
@@ -3207,7 +3207,7 @@
   {
     "MemberID": "4073",
     "FirstAndLastName": "sarah wollaston",
-    "Support": 0
+    "Support": 0.1
   },
   {
     "MemberID": "4384",
