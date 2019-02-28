@@ -4,3900 +4,3900 @@
   "Ayes": 0,
   "Noes": 0,
   "DidNotVote": 0,
-  "Date": "The Future",
+  "Date": "",
   "Votes": [
     {
       "MemberID": "172",
       "FirstAndLastName": "diane abbott",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4212",
       "FirstAndLastName": "debbie abrahams",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4057",
       "FirstAndLastName": "nigel adams",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4639",
       "FirstAndLastName": "bim afolami",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1586",
       "FirstAndLastName": "adam afriyie",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4069",
       "FirstAndLastName": "peter aldous",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4138",
       "FirstAndLastName": "rushanara ali",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4411",
       "FirstAndLastName": "lucy allan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4516",
       "FirstAndLastName": "heidi allen",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4573",
       "FirstAndLastName": "rosena allin-khan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4667",
       "FirstAndLastName": "mike amesbury",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "44",
       "FirstAndLastName": "david amess",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4032",
       "FirstAndLastName": "stuart andrew",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4623",
       "FirstAndLastName": "tonia antoniazzi",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4362",
       "FirstAndLastName": "edward argar",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4244",
       "FirstAndLastName": "jonathan ashworth",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4399",
       "FirstAndLastName": "victoria atkins",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1511",
       "FirstAndLastName": "ian austin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "1451",
       "FirstAndLastName": "richard bacon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4597",
       "FirstAndLastName": "kemi badenoch",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "320",
       "FirstAndLastName": "adrian bailey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4064",
       "FirstAndLastName": "steve baker",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4107",
       "FirstAndLastName": "harriett baldwin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4095",
       "FirstAndLastName": "stephen barclay",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4486",
       "FirstAndLastName": "hannah bardell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1390",
       "FirstAndLastName": "john baron",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "392",
       "FirstAndLastName": "kevin barron",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3910",
       "FirstAndLastName": "guto bebb",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "328",
       "FirstAndLastName": "margaret beckett",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4697",
       "FirstAndLastName": "órfhlaith begley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "1441",
       "FirstAndLastName": "henry bellingham",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "413",
       "FirstAndLastName": "hilary benn",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1547",
       "FirstAndLastName": "richard benyon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "17",
       "FirstAndLastName": "john bercow",
-      "Type": 1,
+      "Type": 0,
       "Party": "Speaker"
     },
     {
       "MemberID": "103",
       "FirstAndLastName": "paul beresford",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4036",
       "FirstAndLastName": "luciana berger",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4060",
       "FirstAndLastName": "jake berry",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "394",
       "FirstAndLastName": "clive betts",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4421",
       "FirstAndLastName": "mhairi black",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4390",
       "FirstAndLastName": "ian blackford",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4005",
       "FirstAndLastName": "bob blackman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4357",
       "FirstAndLastName": "kirsty blackman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1501",
       "FirstAndLastName": "roberta blackman-woods",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4058",
       "FirstAndLastName": "paul blomfield",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "104",
       "FirstAndLastName": "crispin blunt",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3995",
       "FirstAndLastName": "nick boles",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1581",
       "FirstAndLastName": "peter bone",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "117",
       "FirstAndLastName": "peter bottomley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4601",
       "FirstAndLastName": "andrew bowie",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4588",
       "FirstAndLastName": "tracy brabin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4663",
       "FirstAndLastName": "ben bradley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4110",
       "FirstAndLastName": "karen bradley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "230",
       "FirstAndLastName": "ben bradshaw",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "435",
       "FirstAndLastName": "graham brady",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4373",
       "FirstAndLastName": "mickey brady",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "151",
       "FirstAndLastName": "tom brake",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "4475",
       "FirstAndLastName": "suella braverman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1400",
       "FirstAndLastName": "kevin brennan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4643",
       "FirstAndLastName": "jack brereton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4133",
       "FirstAndLastName": "andrew bridgen",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4067",
       "FirstAndLastName": "steve brine",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4417",
       "FirstAndLastName": "deidre brock",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1530",
       "FirstAndLastName": "james brokenshire",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4470",
       "FirstAndLastName": "alan brown",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1583",
       "FirstAndLastName": "lyn brown",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "523",
       "FirstAndLastName": "nicholas brown",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3958",
       "FirstAndLastName": "fiona bruce",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1446",
       "FirstAndLastName": "chris bryant",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "199",
       "FirstAndLastName": "karen buck",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4106",
       "FirstAndLastName": "robert buckland",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "301",
       "FirstAndLastName": "richard burden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4613",
       "FirstAndLastName": "alex burghart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4493",
       "FirstAndLastName": "richard burgon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3922",
       "FirstAndLastName": "conor burns",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1201",
       "FirstAndLastName": "alistair burt",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1489",
       "FirstAndLastName": "dawn butler",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1171",
       "FirstAndLastName": "liam byrne",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "207",
       "FirstAndLastName": "vince cable",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "4389",
       "FirstAndLastName": "ruth cadbury",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4086",
       "FirstAndLastName": "alun cairns",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4412",
       "FirstAndLastName": "lisa cameron",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "529",
       "FirstAndLastName": "alan campbell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1409",
       "FirstAndLastName": "gregory campbell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "514",
       "FirstAndLastName": "ronnie campbell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4651",
       "FirstAndLastName": "dan carden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1442",
       "FirstAndLastName": "alistair carmichael",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "4519",
       "FirstAndLastName": "james cartlidge",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "288",
       "FirstAndLastName": "william cash",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4492",
       "FirstAndLastName": "maria caulfield",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4481",
       "FirstAndLastName": "alex chalk",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4267",
       "FirstAndLastName": "sarah champion",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4402",
       "FirstAndLastName": "douglas chapman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "3972",
       "FirstAndLastName": "jenny chapman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4610",
       "FirstAndLastName": "bambos charalambous",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4419",
       "FirstAndLastName": "joanna cherry",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "3987",
       "FirstAndLastName": "rehman chishti",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "242",
       "FirstAndLastName": "christopher chope",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4380",
       "FirstAndLastName": "jo churchill",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4650",
       "FirstAndLastName": "colin clark",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1578",
       "FirstAndLastName": "greg clark",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "366",
       "FirstAndLastName": "kenneth clarke",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4655",
       "FirstAndLastName": "simon clarke",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4366",
       "FirstAndLastName": "james cleverly",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "249",
       "FirstAndLastName": "geoffrey clifton-brown",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "553",
       "FirstAndLastName": "ann clwyd",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "360",
       "FirstAndLastName": "vernon coaker",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "458",
       "FirstAndLastName": "ann coffey",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4098",
       "FirstAndLastName": "thérèse coffey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3986",
       "FirstAndLastName": "damian collins",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4405",
       "FirstAndLastName": "julie cooper",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1538",
       "FirstAndLastName": "rosie cooper",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "420",
       "FirstAndLastName": "yvette cooper",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "185",
       "FirstAndLastName": "jeremy corbyn",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4439",
       "FirstAndLastName": "alberto costa",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4589",
       "FirstAndLastName": "robert courts",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4465",
       "FirstAndLastName": "ronnie cowan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1508",
       "FirstAndLastName": "geoffrey cox",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4368",
       "FirstAndLastName": "neil coyle",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1554",
       "FirstAndLastName": "stephen crabb",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "437",
       "FirstAndLastName": "david crausby",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4469",
       "FirstAndLastName": "angela crawley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1579",
       "FirstAndLastName": "mary creagh",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4088",
       "FirstAndLastName": "stella creasy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3950",
       "FirstAndLastName": "tracey crouch",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1406",
       "FirstAndLastName": "jon cruddas",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "181",
       "FirstAndLastName": "john cryer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4391",
       "FirstAndLastName": "judith cummins",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4122",
       "FirstAndLastName": "alex cunningham",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "308",
       "FirstAndLastName": "jim cunningham",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4698",
       "FirstAndLastName": "janet daby",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4056",
       "FirstAndLastName": "nic dakin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "188",
       "FirstAndLastName": "edward davey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "1398",
       "FirstAndLastName": "wayne david",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4376",
       "FirstAndLastName": "chris davies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1545",
       "FirstAndLastName": "david davies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "155",
       "FirstAndLastName": "geraint davies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4041",
       "FirstAndLastName": "glyn davies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4513",
       "FirstAndLastName": "midavies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1565",
       "FirstAndLastName": "philip davies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "373",
       "FirstAndLastName": "david davis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4488",
       "FirstAndLastName": "martyn day",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4676",
       "FirstAndLastName": "marsha cordova",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3915",
       "FirstAndLastName": "gloria piero",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4433",
       "FirstAndLastName": "thangam debbonaire",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4683",
       "FirstAndLastName": "emma coad",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4638",
       "FirstAndLastName": "tanmanjeet dhesi",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4008",
       "FirstAndLastName": "caroline dinenage",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1425",
       "FirstAndLastName": "jonathan djanogly",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4600",
       "FirstAndLastName": "leo docherty",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4374",
       "FirstAndLastName": "martin docherty-hughes",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4657",
       "FirstAndLastName": "anneliese dodds",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1388",
       "FirstAndLastName": "nigel dodds",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "650",
       "FirstAndLastName": "jeffrey donaldson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "4530",
       "FirstAndLastName": "michelle donelan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1481",
       "FirstAndLastName": "nadine dorries",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4452",
       "FirstAndLastName": "steve double",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4264",
       "FirstAndLastName": "stephen doughty",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4397",
       "FirstAndLastName": "peter dowd",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4441",
       "FirstAndLastName": "oliver dowden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4065",
       "FirstAndLastName": "jackie doyle-price",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4132",
       "FirstAndLastName": "richard drax",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "252",
       "FirstAndLastName": "david drew",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3913",
       "FirstAndLastName": "jack dromey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1559",
       "FirstAndLastName": "james duddridge",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4616",
       "FirstAndLastName": "rosie duffield",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4606",
       "FirstAndLastName": "david duguid",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "343",
       "FirstAndLastName": "alan duncan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "152",
       "FirstAndLastName": "iain smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1542",
       "FirstAndLastName": "philip dunne",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "491",
       "FirstAndLastName": "angela eagle",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "483",
       "FirstAndLastName": "maria eagle",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3943",
       "FirstAndLastName": "jonathan edwards",
-      "Type": 1,
+      "Type": 0,
       "Party": "Plaid Cymru"
     },
     {
       "MemberID": "165",
       "FirstAndLastName": "clive efford",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4127",
       "FirstAndLastName": "julie elliott",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4116",
       "FirstAndLastName": "michael ellis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "484",
       "FirstAndLastName": "dame ellman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1487",
       "FirstAndLastName": "tobias ellwood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4572",
       "FirstAndLastName": "chris elmore",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3971",
       "FirstAndLastName": "charlie elphicke",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4061",
       "FirstAndLastName": "bill esterson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3934",
       "FirstAndLastName": "george eustice",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4040",
       "FirstAndLastName": "chris evans",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "474",
       "FirstAndLastName": "nigel evans",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1198",
       "FirstAndLastName": "david evennett",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "280",
       "FirstAndLastName": "michael fabricant",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "88",
       "FirstAndLastName": "michael fallon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1436",
       "FirstAndLastName": "paul farrelly",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1591",
       "FirstAndLastName": "tim farron",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "4440",
       "FirstAndLastName": "marion fellows",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "478",
       "FirstAndLastName": "frank field",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "1405",
       "FirstAndLastName": "mark field",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "197",
       "FirstAndLastName": "jim fitzpatrick",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4378",
       "FirstAndLastName": "colleen fletcher",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "389",
       "FirstAndLastName": "caroline flint",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4674",
       "FirstAndLastName": "vicky ford",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4451",
       "FirstAndLastName": "kevin foster",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4034",
       "FirstAndLastName": "yvonne fovargue",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "223",
       "FirstAndLastName": "liam fox",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4491",
       "FirstAndLastName": "vicky foxcroft",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1444",
       "FirstAndLastName": "mark francois",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4517",
       "FirstAndLastName": "lucy frazer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4020",
       "FirstAndLastName": "george freeman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4004",
       "FirstAndLastName": "mike freer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4637",
       "FirstAndLastName": "james frith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4571",
       "FirstAndLastName": "gill furniss",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4446",
       "FirstAndLastName": "marcus fysh",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4614",
       "FirstAndLastName": "hugh gaffney",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "87",
       "FirstAndLastName": "roger gale",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "184",
       "FirstAndLastName": "mike gapes",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "146",
       "FirstAndLastName": "barry gardiner",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4074",
       "FirstAndLastName": "mark garnier",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1529",
       "FirstAndLastName": "david gauke",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4662",
       "FirstAndLastName": "ruth george",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4434",
       "FirstAndLastName": "stephen gethins",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4460",
       "FirstAndLastName": "nusrat ghani",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "111",
       "FirstAndLastName": "nick gibb",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4435",
       "FirstAndLastName": "patricia gibson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1416",
       "FirstAndLastName": "michelle gildernew",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "4603",
       "FirstAndLastName": "preet gill",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "18",
       "FirstAndLastName": "dame gillan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4633",
       "FirstAndLastName": "paul girvan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "4051",
       "FirstAndLastName": "john glen",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4126",
       "FirstAndLastName": "mary glindon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "304",
       "FirstAndLastName": "roger godsiff",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4062",
       "FirstAndLastName": "zac goldsmith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1484",
       "FirstAndLastName": "helen goodman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1562",
       "FirstAndLastName": "robert goodwill",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1571",
       "FirstAndLastName": "michael gove",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4432",
       "FirstAndLastName": "patrick grady",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4622",
       "FirstAndLastName": "luke graham",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3990",
       "FirstAndLastName": "richard graham",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4605",
       "FirstAndLastName": "bill grant",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4018",
       "FirstAndLastName": "helen grant",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4466",
       "FirstAndLastName": "peter grant",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "261",
       "FirstAndLastName": "james gray",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4365",
       "FirstAndLastName": "neil gray",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1413",
       "FirstAndLastName": "chris grayling",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4398",
       "FirstAndLastName": "chris green",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "76",
       "FirstAndLastName": "damian green",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4120",
       "FirstAndLastName": "kate green",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1555",
       "FirstAndLastName": "justine greening",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4029",
       "FirstAndLastName": "lilian greenwood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4400",
       "FirstAndLastName": "margaret greenwood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "16",
       "FirstAndLastName": "dominic grieve",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1541",
       "FirstAndLastName": "nia griffith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3936",
       "FirstAndLastName": "andrew griffiths",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "382",
       "FirstAndLastName": "john grogan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1506",
       "FirstAndLastName": "andrew gwynne",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3980",
       "FirstAndLastName": "sam gyimah",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4473",
       "FirstAndLastName": "louise haigh",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4675",
       "FirstAndLastName": "kirstene hair",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3985",
       "FirstAndLastName": "robert halfon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4450",
       "FirstAndLastName": "luke hall",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "415",
       "FirstAndLastName": "fabian hamilton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "105",
       "FirstAndLastName": "philip hammond",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1585",
       "FirstAndLastName": "stephen hammond",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4070",
       "FirstAndLastName": "matt hancock",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1526",
       "FirstAndLastName": "greg hands",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "533",
       "FirstAndLastName": "david hanson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4645",
       "FirstAndLastName": "emma hardy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "150",
       "FirstAndLastName": "harriet harman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1520",
       "FirstAndLastName": "mark harper",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4068",
       "FirstAndLastName": "richard harrington",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4480",
       "FirstAndLastName": "carolyn harris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3948",
       "FirstAndLastName": "rebecca harris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4593",
       "FirstAndLastName": "trudy harrison",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3944",
       "FirstAndLastName": "simon hart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4510",
       "FirstAndLastName": "helen hayes",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "350",
       "FirstAndLastName": "john hayes",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4395",
       "FirstAndLastName": "sue hayman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4636",
       "FirstAndLastName": "chris hazzard",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "69",
       "FirstAndLastName": "oliver heald",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "400",
       "FirstAndLastName": "john healey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4528",
       "FirstAndLastName": "james heappey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3977",
       "FirstAndLastName": "chris heaton-harris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4524",
       "FirstAndLastName": "peter heaton-jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4050",
       "FirstAndLastName": "gordon henderson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "473",
       "FirstAndLastName": "mark hendrick",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4467",
       "FirstAndLastName": "drew hendry",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "520",
       "FirstAndLastName": "stephen hepburn",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1479",
       "FirstAndLastName": "nick herbert",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1437",
       "FirstAndLastName": "lady hermon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "4644",
       "FirstAndLastName": "mike hill",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1524",
       "FirstAndLastName": "meg hillier",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3969",
       "FirstAndLastName": "damian hinds",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4494",
       "FirstAndLastName": "simon hoare",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4602",
       "FirstAndLastName": "wera hobhouse",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "140",
       "FirstAndLastName": "dame hodge",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1521",
       "FirstAndLastName": "sharon hodgson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "210",
       "FirstAndLastName": "kate hoey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4363",
       "FirstAndLastName": "kate hollern",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4016",
       "FirstAndLastName": "george hollingbery",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4474",
       "FirstAndLastName": "kevin hollinrake",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1537",
       "FirstAndLastName": "philip hollobone",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1522",
       "FirstAndLastName": "adam holloway",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "2",
       "FirstAndLastName": "kelvin hopkins",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "1514",
       "FirstAndLastName": "stewart hosie",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "481",
       "FirstAndLastName": "george howarth",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1606",
       "FirstAndLastName": "john howell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "467",
       "FirstAndLastName": "lindsay hoyle",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4407",
       "FirstAndLastName": "nigel huddleston",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4635",
       "FirstAndLastName": "eddie hughes",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1572",
       "FirstAndLastName": "jeremy hunt",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4511",
       "FirstAndLastName": "rupa huq",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1561",
       "FirstAndLastName": "nick hurd",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4394",
       "FirstAndLastName": "imran hussain",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4619",
       "FirstAndLastName": "alister jack",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4115",
       "FirstAndLastName": "margot james",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4634",
       "FirstAndLastName": "christine jardine",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "4243",
       "FirstAndLastName": "dan jarvis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3945",
       "FirstAndLastName": "sajid javid",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4498",
       "FirstAndLastName": "ranil jayawardena",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "40",
       "FirstAndLastName": "bernard jenkin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4490",
       "FirstAndLastName": "andrea jenkyns",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4320",
       "FirstAndLastName": "robert jenrick",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1423",
       "FirstAndLastName": "boris johnson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4592",
       "FirstAndLastName": "caroline johnson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1533",
       "FirstAndLastName": "diana johnson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3970",
       "FirstAndLastName": "gareth johnson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4039",
       "FirstAndLastName": "joseph johnson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3996",
       "FirstAndLastName": "andrew jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4621",
       "FirstAndLastName": "darren jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1502",
       "FirstAndLastName": "david jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4501",
       "FirstAndLastName": "gerald jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3999",
       "FirstAndLastName": "graham jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "432",
       "FirstAndLastName": "helen jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1438",
       "FirstAndLastName": "kevan jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4024",
       "FirstAndLastName": "marcus jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4631",
       "FirstAndLastName": "sarah jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3956",
       "FirstAndLastName": "susan jones",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4316",
       "FirstAndLastName": "mike kane",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1566",
       "FirstAndLastName": "daniel kawczynski",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4680",
       "FirstAndLastName": "gillian keegan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1588",
       "FirstAndLastName": "barbara keeley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4026",
       "FirstAndLastName": "liz kendall",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4455",
       "FirstAndLastName": "seema kennedy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4604",
       "FirstAndLastName": "stephen kerr",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4671",
       "FirstAndLastName": "afzal khan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4672",
       "FirstAndLastName": "ged killen",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4359",
       "FirstAndLastName": "stephen kinnock",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1200",
       "FirstAndLastName": "greg knight",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4410",
       "FirstAndLastName": "julian knight",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4134",
       "FirstAndLastName": "kwasi kwarteng",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4505",
       "FirstAndLastName": "peter kyle",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "36",
       "FirstAndLastName": "dame laing",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4660",
       "FirstAndLastName": "lesley laird",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4630",
       "FirstAndLastName": "ben lake",
-      "Type": 1,
+      "Type": 0,
       "Party": "Plaid Cymru"
     },
     {
       "MemberID": "1439",
       "FirstAndLastName": "norman lamb",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "206",
       "FirstAndLastName": "david lammy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4608",
       "FirstAndLastName": "john lamont",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1544",
       "FirstAndLastName": "mark lancaster",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4025",
       "FirstAndLastName": "pauline latham",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4139",
       "FirstAndLastName": "ian lavery",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4403",
       "FirstAndLastName": "chris law",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4117",
       "FirstAndLastName": "andrea leadsom",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4664",
       "FirstAndLastName": "karen lee",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3921",
       "FirstAndLastName": "phillip lee",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4109",
       "FirstAndLastName": "jeremy lefroy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "345",
       "FirstAndLastName": "edward leigh",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "422",
       "FirstAndLastName": "chris leslie",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "247",
       "FirstAndLastName": "oliver letwin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4277",
       "FirstAndLastName": "emma lewell-buck",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4659",
       "FirstAndLastName": "andrew lewer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4009",
       "FirstAndLastName": "brandon lewis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4500",
       "FirstAndLastName": "clive lewis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "441",
       "FirstAndLastName": "ivan lewis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "54",
       "FirstAndLastName": "julian lewis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1396",
       "FirstAndLastName": "ian liddell-grainger",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "15",
       "FirstAndLastName": "david lidington",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4640",
       "FirstAndLastName": "david linden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4611",
       "FirstAndLastName": "emma pengelly",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "3968",
       "FirstAndLastName": "stephen lloyd",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "450",
       "FirstAndLastName": "tony lloyd",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4396",
       "FirstAndLastName": "rebecca bailey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4647",
       "FirstAndLastName": "julia lopez",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3989",
       "FirstAndLastName": "jack lopresti",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4090",
       "FirstAndLastName": "jonathan lord",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "114",
       "FirstAndLastName": "tim loughton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3930",
       "FirstAndLastName": "caroline lucas",
-      "Type": 1,
+      "Type": 0,
       "Party": "Green Party"
     },
     {
       "MemberID": "1470",
       "FirstAndLastName": "ian lucas",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4472",
       "FirstAndLastName": "holly lynch",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "298",
       "FirstAndLastName": "steve mccabe",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4624",
       "FirstAndLastName": "elisha mccallion",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "1491",
       "FirstAndLastName": "kerry mccarthy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "193",
       "FirstAndLastName": "siobhain mcdonagh",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4269",
       "FirstAndLastName": "andy mcdonald",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4461",
       "FirstAndLastName": "stewart mcdonald",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4393",
       "FirstAndLastName": "stuart mcdonald",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "178",
       "FirstAndLastName": "john mcdonnell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1587",
       "FirstAndLastName": "pat mcfadden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4458",
       "FirstAndLastName": "conor mcginn",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4083",
       "FirstAndLastName": "alison mcgovern",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4342",
       "FirstAndLastName": "liz mcinnes",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4529",
       "FirstAndLastName": "craig mackinlay",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4125",
       "FirstAndLastName": "catherine mckinnell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4668",
       "FirstAndLastName": "rachel maclean",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "333",
       "FirstAndLastName": "patrick mcloughlin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4569",
       "FirstAndLastName": "jim mcmahon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4632",
       "FirstAndLastName": "anna mcmorrin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4424",
       "FirstAndLastName": "john mcnally",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1546",
       "FirstAndLastName": "angus macneil",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4093",
       "FirstAndLastName": "stephen mcpartland",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4084",
       "FirstAndLastName": "esther mcvey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4418",
       "FirstAndLastName": "justin madders",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1392",
       "FirstAndLastName": "khalid mahmood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3914",
       "FirstAndLastName": "shabana mahmood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1568",
       "FirstAndLastName": "anne main",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4484",
       "FirstAndLastName": "alan mak",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4253",
       "FirstAndLastName": "seema malhotra",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4495",
       "FirstAndLastName": "kit malthouse",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1387",
       "FirstAndLastName": "john mann",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4496",
       "FirstAndLastName": "scott mann",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "465",
       "FirstAndLastName": "gordon marsden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4678",
       "FirstAndLastName": "sandy martin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4471",
       "FirstAndLastName": "rachael maskell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4245",
       "FirstAndLastName": "paul maskey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "4625",
       "FirstAndLastName": "paul masterton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4408",
       "FirstAndLastName": "christian matheson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "8",
       "FirstAndLastName": "theresa may",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3926",
       "FirstAndLastName": "paul maynard",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4000",
       "FirstAndLastName": "ian mearns",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3998",
       "FirstAndLastName": "mark menzies",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4485",
       "FirstAndLastName": "johnny mercer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4442",
       "FirstAndLastName": "huw merriman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4092",
       "FirstAndLastName": "stephen metcalfe",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1510",
       "FirstAndLastName": "edward miliband",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1480",
       "FirstAndLastName": "maria miller",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4454",
       "FirstAndLastName": "amanda milling",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4136",
       "FirstAndLastName": "nigel mills",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1523",
       "FirstAndLastName": "anne milton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1211",
       "FirstAndLastName": "andrew mitchell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4274",
       "FirstAndLastName": "francie molloy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Sinn Féin"
     },
     {
       "MemberID": "4443",
       "FirstAndLastName": "carol monaghan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "1490",
       "FirstAndLastName": "madeleine moon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4669",
       "FirstAndLastName": "damien moore",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4656",
       "FirstAndLastName": "layla moran",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "4017",
       "FirstAndLastName": "penny mordaunt",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1548",
       "FirstAndLastName": "jessica morden",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4027",
       "FirstAndLastName": "nicky morgan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4653",
       "FirstAndLastName": "stephen morgan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4249",
       "FirstAndLastName": "anne morris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4135",
       "FirstAndLastName": "david morris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3973",
       "FirstAndLastName": "grahame morris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3992",
       "FirstAndLastName": "james morris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4358",
       "FirstAndLastName": "wendy morton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1512",
       "FirstAndLastName": "david mundell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3966",
       "FirstAndLastName": "ian murray",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4100",
       "FirstAndLastName": "sheryll murray",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1466",
       "FirstAndLastName": "andrew murrison",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4082",
       "FirstAndLastName": "lisa nandy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1601",
       "FirstAndLastName": "robert neill",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4420",
       "FirstAndLastName": "gavin newlands",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4071",
       "FirstAndLastName": "sarah newton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4048",
       "FirstAndLastName": "caroline nokes",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3991",
       "FirstAndLastName": "jesse norman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4641",
       "FirstAndLastName": "alex norris",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4679",
       "FirstAndLastName": "neil o'brien",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4006",
       "FirstAndLastName": "matthew offord",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4371",
       "FirstAndLastName": "brendan o'hara",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4661",
       "FirstAndLastName": "jared o'mara",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "4629",
       "FirstAndLastName": "fiona onasanya",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "4464",
       "FirstAndLastName": "melanie onn",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4124",
       "FirstAndLastName": "chi onwurah",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4142",
       "FirstAndLastName": "guy opperman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4515",
       "FirstAndLastName": "kate osamor",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1474",
       "FirstAndLastName": "albert owen",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4129",
       "FirstAndLastName": "ian paisley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "4072",
       "FirstAndLastName": "neil parish",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4066",
       "FirstAndLastName": "priti patel",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "274",
       "FirstAndLastName": "owen paterson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4052",
       "FirstAndLastName": "mark pawsey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4607",
       "FirstAndLastName": "stephanie peacock",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4003",
       "FirstAndLastName": "teresa pearce",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1528",
       "FirstAndLastName": "mike penning",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4520",
       "FirstAndLastName": "matthew pennycook",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1584",
       "FirstAndLastName": "john penrose",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3939",
       "FirstAndLastName": "andrew percy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3952",
       "FirstAndLastName": "toby perkins",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3974",
       "FirstAndLastName": "claire perry",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4370",
       "FirstAndLastName": "jess phillips",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4046",
       "FirstAndLastName": "bridget phillipson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4503",
       "FirstAndLastName": "chris philp",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4665",
       "FirstAndLastName": "laura pidcock",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4075",
       "FirstAndLastName": "christopher pincher",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4673",
       "FirstAndLastName": "jo platt",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4682",
       "FirstAndLastName": "luke pollard",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3932",
       "FirstAndLastName": "dan poulter",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "161",
       "FirstAndLastName": "stephen pound",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4522",
       "FirstAndLastName": "rebecca pow",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4263",
       "FirstAndLastName": "lucy powell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4401",
       "FirstAndLastName": "victoria prentis",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1424",
       "FirstAndLastName": "mark prisk",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1576",
       "FirstAndLastName": "mark pritchard",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4369",
       "FirstAndLastName": "tom pursglove",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4507",
       "FirstAndLastName": "jeremy quin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4423",
       "FirstAndLastName": "will quince",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3924",
       "FirstAndLastName": "yasmin qureshi",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4007",
       "FirstAndLastName": "dominic raab",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4670",
       "FirstAndLastName": "faisal rashid",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4356",
       "FirstAndLastName": "angela rayner",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "14",
       "FirstAndLastName": "john redwood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4268",
       "FirstAndLastName": "steve reed",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4525",
       "FirstAndLastName": "christina rees",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4099",
       "FirstAndLastName": "jacob rees-mogg",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4620",
       "FirstAndLastName": "ellie reeves",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4031",
       "FirstAndLastName": "rachel reeves",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4077",
       "FirstAndLastName": "emma reynolds",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4119",
       "FirstAndLastName": "jonathan reynolds",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4457",
       "FirstAndLastName": "marie rimmer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "253",
       "FirstAndLastName": "laurence robertson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4360",
       "FirstAndLastName": "gavin robinson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "307",
       "FirstAndLastName": "geoffrey robinson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4406",
       "FirstAndLastName": "mary robinson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4654",
       "FirstAndLastName": "matt rodda",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1447",
       "FirstAndLastName": "andrew rosindell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4627",
       "FirstAndLastName": "douglas ross",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4628",
       "FirstAndLastName": "danielle rowley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4652",
       "FirstAndLastName": "lee rowley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "534",
       "FirstAndLastName": "chris ruane",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3983",
       "FirstAndLastName": "amber rudd",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4615",
       "FirstAndLastName": "lloyd russell-moyle",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4033",
       "FirstAndLastName": "david rutley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "166",
       "FirstAndLastName": "joan ryan",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4506",
       "FirstAndLastName": "antoinette sandbach",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4521",
       "FirstAndLastName": "liz roberts",
-      "Type": 1,
+      "Type": 0,
       "Party": "Plaid Cymru"
     },
     {
       "MemberID": "4414",
       "FirstAndLastName": "paul scully",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4681",
       "FirstAndLastName": "bob seely",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1453",
       "FirstAndLastName": "andrew selous",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4409",
       "FirstAndLastName": "naz shah",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4131",
       "FirstAndLastName": "jim shannon",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "1582",
       "FirstAndLastName": "grant shapps",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4014",
       "FirstAndLastName": "alok sharma",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1604",
       "FirstAndLastName": "virendra sharma",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "411",
       "FirstAndLastName": "barry sheerman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3997",
       "FirstAndLastName": "alec shelbrooke",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4453",
       "FirstAndLastName": "tommy sheppard",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4426",
       "FirstAndLastName": "paula sherriff",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4013",
       "FirstAndLastName": "gavin shuker",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4518",
       "FirstAndLastName": "tulip siddiq",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1597",
       "FirstAndLastName": "david simpson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "126",
       "FirstAndLastName": "keith simpson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4021",
       "FirstAndLastName": "chris skidmore",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "325",
       "FirstAndLastName": "dennis skinner",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1516",
       "FirstAndLastName": "andy slaughter",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4508",
       "FirstAndLastName": "ruth smeeth",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1564",
       "FirstAndLastName": "angela smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4436",
       "FirstAndLastName": "cat smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1609",
       "FirstAndLastName": "chloe smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4609",
       "FirstAndLastName": "eleanor smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3960",
       "FirstAndLastName": "henry smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4456",
       "FirstAndLastName": "jeff smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4118",
       "FirstAndLastName": "julian smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4648",
       "FirstAndLastName": "laura smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3928",
       "FirstAndLastName": "nick smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4042",
       "FirstAndLastName": "owen smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4478",
       "FirstAndLastName": "royston smith",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4444",
       "FirstAndLastName": "karin smyth",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4595",
       "FirstAndLastName": "gareth snell",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "116",
       "FirstAndLastName": "nicholas soames",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4658",
       "FirstAndLastName": "alex sobel",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3938",
       "FirstAndLastName": "anna soubry",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "318",
       "FirstAndLastName": "john spellar",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "312",
       "FirstAndLastName": "dame spelman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4055",
       "FirstAndLastName": "mark spencer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4514",
       "FirstAndLastName": "keir starmer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4463",
       "FirstAndLastName": "chris stephens",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4044",
       "FirstAndLastName": "andrew stephenson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4425",
       "FirstAndLastName": "jo stevens",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3942",
       "FirstAndLastName": "john stevenson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3919",
       "FirstAndLastName": "bob stewart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4015",
       "FirstAndLastName": "iain stewart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4137",
       "FirstAndLastName": "rory stewart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4612",
       "FirstAndLastName": "jamie stone",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "234",
       "FirstAndLastName": "gary streeter",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4504",
       "FirstAndLastName": "wes streeting",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3935",
       "FirstAndLastName": "mel stride",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "449",
       "FirstAndLastName": "graham stringer",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1482",
       "FirstAndLastName": "graham stuart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4079",
       "FirstAndLastName": "julian sturdy",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4483",
       "FirstAndLastName": "rishi sunak",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "55",
       "FirstAndLastName": "desmond swayne",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4642",
       "FirstAndLastName": "paul sweeney",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1513",
       "FirstAndLastName": "jo swinson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Liberal Democrat"
     },
     {
       "MemberID": "1408",
       "FirstAndLastName": "hugo swire",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "245",
       "FirstAndLastName": "robert syms",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1383",
       "FirstAndLastName": "mark tami",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4430",
       "FirstAndLastName": "alison thewliss",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4532",
       "FirstAndLastName": "derek thomas",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "177",
       "FirstAndLastName": "gareth thomas",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4479",
       "FirstAndLastName": "nick thomas-symonds",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4599",
       "FirstAndLastName": "ross thomson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1536",
       "FirstAndLastName": "emily thornberry",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4447",
       "FirstAndLastName": "maggie throup",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "163",
       "FirstAndLastName": "stephen timms",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4487",
       "FirstAndLastName": "kelly tolhurst",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4105",
       "FirstAndLastName": "justin tomlinson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4497",
       "FirstAndLastName": "michael tomlinson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4509",
       "FirstAndLastName": "craig tracey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "335",
       "FirstAndLastName": "david tredinnick",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4531",
       "FirstAndLastName": "anne-marie trevelyan",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "410",
       "FirstAndLastName": "jon trickett",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4097",
       "FirstAndLastName": "elizabeth truss",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4462",
       "FirstAndLastName": "tom tugendhat",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4449",
       "FirstAndLastName": "anna turley",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4030",
       "FirstAndLastName": "karl turner",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "429",
       "FirstAndLastName": "derek twigg",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "167",
       "FirstAndLastName": "stephen twigg",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4618",
       "FirstAndLastName": "liz twist",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4128",
       "FirstAndLastName": "chuka umunna",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "1580",
       "FirstAndLastName": "edward vaizey",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1496",
       "FirstAndLastName": "shailesh vara",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "338",
       "FirstAndLastName": "keith vaz",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4076",
       "FirstAndLastName": "valerie vaz",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3957",
       "FirstAndLastName": "martin vickers",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1500",
       "FirstAndLastName": "theresa villiers",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1493",
       "FirstAndLastName": "charles walker",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4091",
       "FirstAndLastName": "robin walker",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4649",
       "FirstAndLastName": "thelma walker",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1539",
       "FirstAndLastName": "ben wallace",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4526",
       "FirstAndLastName": "david warburton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4361",
       "FirstAndLastName": "matt warman",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4677",
       "FirstAndLastName": "giles watling",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1463",
       "FirstAndLastName": "tom watson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4523",
       "FirstAndLastName": "catherine west",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4617",
       "FirstAndLastName": "matt western",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4527",
       "FirstAndLastName": "helen whately",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4053",
       "FirstAndLastName": "heather wheeler",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "62",
       "FirstAndLastName": "alan whitehead",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4626",
       "FirstAndLastName": "martin whitfield",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4385",
       "FirstAndLastName": "philippa whitford",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "3940",
       "FirstAndLastName": "craig whittaker",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "39",
       "FirstAndLastName": "john whittingdale",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1428",
       "FirstAndLastName": "bill wiggin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1397",
       "FirstAndLastName": "hywel williams",
-      "Type": 1,
+      "Type": 0,
       "Party": "Plaid Cymru"
     },
     {
       "MemberID": "4666",
       "FirstAndLastName": "paul williams",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "3976",
       "FirstAndLastName": "chris williamson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4108",
       "FirstAndLastName": "gavin williamson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1603",
       "FirstAndLastName": "phil wilson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1593",
       "FirstAndLastName": "sammy wilson",
-      "Type": 1,
+      "Type": 0,
       "Party": "Democratic Unionist Party"
     },
     {
       "MemberID": "390",
       "FirstAndLastName": "dame winterton",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "1440",
       "FirstAndLastName": "pete wishart",
-      "Type": 1,
+      "Type": 0,
       "Party": "Scottish National Party"
     },
     {
       "MemberID": "4073",
       "FirstAndLastName": "sarah wollaston",
-      "Type": 1,
+      "Type": 0,
       "Party": "The Independent Group"
     },
     {
       "MemberID": "4384",
       "FirstAndLastName": "mike wood",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "3917",
       "FirstAndLastName": "john woodcock",
-      "Type": 1,
+      "Type": 0,
       "Party": "Independent"
     },
     {
       "MemberID": "4429",
       "FirstAndLastName": "william wragg",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "1560",
       "FirstAndLastName": "jeremy wright",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4598",
       "FirstAndLastName": "mohammad yasin",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     },
     {
       "MemberID": "4113",
       "FirstAndLastName": "nadhim zahawi",
-      "Type": 1,
+      "Type": 0,
       "Party": "Conservative"
     },
     {
       "MemberID": "4382",
       "FirstAndLastName": "daniel zeichner",
-      "Type": 1,
+      "Type": 0,
       "Party": "Labour"
     }
   ]
